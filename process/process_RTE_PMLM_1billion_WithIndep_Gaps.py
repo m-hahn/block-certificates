@@ -109,11 +109,14 @@ for i in range(14):
 
 def prettyPrint(x):
     return ("   { \"premise\" : \"" + x[0].replace('"', '\\"').replace("###########", "########### ")+ "\", \"hypothesis\" : \"" + x[1].replace('"', '\\"').replace("###########", "########### ") + "\", \"model_sens\" : " + str(float(x[2])) + "},")
+def prettyPrintTSV(x):
+    return("\t".join([x[0].replace('"', '\\"').replace("###########", "########### ").strip(), x[1].replace('"', '\\"').replace("###########", "########### ").strip(), str(float(x[2]))]))
 
 
 
 
-for item in data:
+with open(f"output/{__file__}.tsv", "w") as outFile:
+  for item in data:
      if len(item["subsets"]) == 0:
          continue
      allRelevant = [("ORIG", item["original"])]
@@ -136,7 +139,7 @@ for item in data:
 
      for i in range(14):
         print(prettyPrint(options[i]), file=streams[i])
-
+        print(prettyPrintTSV(options[i]), file=outFile)
 for i in range(14):
     print("];", file=streams[i])
 
