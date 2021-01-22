@@ -14,7 +14,8 @@ with open("../items/witnesses_estimateS1ensitivity_SST2_getSensitivityParts_PMLM
         item = {"subsets" : [], "original" : original}
         data.append(item)
     if line.startswith("OVERALL SENSITIVITY ON THIS DATAPOI"):
-        overall = line
+        overall = float(line.split(" ")[-1])
+        item["sensitivity"] = overall
         line = next(inFile).strip()
     while line.startswith("&&&&&&&&&&& SUBSET SEN"):
         if forSubset is not None:
@@ -35,7 +36,9 @@ with open("../items/witnesses_estimateS1ensitivity_SST2_getSensitivityParts_PMLM
        text, prediction = line.split("\t")
     except ValueError:
         print("UNEXPECTED", line)
+        assert False
         continue
+
     forSubset.append((text, prediction.replace("tensor([", "").replace("])", "")))
 
 print(data)
@@ -48,11 +51,11 @@ streams = [open(f"output/{__file__}_{i}.js", "w") for i in range(60)]
 for i in range(60):
     print("stimuli = [", file=streams[i])
 
-def prettyPrint(x):
+def prettyPrint(x, sensitivity):
     if x[0] == "ORIG":
         x = x[1].split("@")
         x.append("\"NA\"")
-    return ("   { \"text\" : \"" + x[0].replace("  </s>", "").replace('"', '\\"') + "\", \"model_rating\" : " + x[1] + "},")
+    return ("   { \"text\" : \"" + x[0].replace("  </s>", "").replace('"', '\\"') + "\", \"model_rating\" : " + x[1] + ", \"model_sensitivity\" : " + str(sensitivity) + "},")
 
 for item in data:
      allRelevant = [("ORIG", item["original"])]
@@ -75,7 +78,7 @@ for item in data:
      allRelevant = allRelevant[:60]
 
      for i in range(60):
-        print(prettyPrint(allRelevant[i]), file=streams[i])
+        print(prettyPrint(allRelevant[i], item["sensitivity"]), file=streams[i])
 
 for i in range(60):
     print("];", file=streams[i])
