@@ -1,0 +1,95 @@
+item = None
+data = []
+forSubset = None
+
+
+with open("../items/witnesses_estimateS1ensitivity_SST2_getSensitivityParts_finetuned_RoBERTa_New.py", "r") as inFile:
+
+ for line in inFile:
+    line = line.strip()
+    while line.startswith("######"):
+        original = next(inFile).strip()
+        line = next(inFile).strip()
+        print(item)
+        item = {"subsets" : [], "original" : original}
+        data.append(item)
+    if line.startswith("OVERALL SENSITIVITY ON THIS DATAPOI"):
+        overall = float(line.split(" ")[-1])
+        item["sensitivity"] = overall
+        line = next(inFile).strip()
+    while line.startswith("&&&&&&&&&&& SUBSET SEN"):
+        if forSubset is not None:
+           print(len(forSubset))
+        forSubset = []
+        assert item is not None
+        item["subsets"].append(forSubset)
+        withMask1 = next(inFile)
+        withMask2 = next(inFile)
+        line = next(inFile).strip()
+    while line.startswith("######"):
+        original = next(inFile).strip()
+        line = next(inFile).strip()
+        item = {"subsets" : [], "original" : original}
+        data.append(item)
+    assert not line.startswith("####"), line
+    try:
+       text, prediction = line.split("\t")
+    except ValueError:
+        print("UNEXPECTED", line)
+        assert False
+        continue
+
+    forSubset.append((text, prediction.replace("tensor([", "").replace("])", "")))
+
+print(data)
+
+import random
+rng = random.Random(5)
+
+with open("../../GLUE/SST-2/dev.tsv", "r") as inFile:
+    labels = inFile.read().strip().split("\n")[1:]
+    labels = dict([[y.strip() for y in x.split("\t")] for x in labels])
+
+
+streams = [open(f"output/{__file__}_{i}.js", "w") for i in range(60)]
+
+for i in range(60):
+    print("stimuli = [", file=streams[i])
+
+def prettyPrint(x, sensitivity, original):
+    if x[0] == "ORIG":
+        x = x[1].split("@")
+        x.append("\"NA\"")
+    return ("   { \"text\" : \"" + x[0].replace("  </s>", "").replace('"', '\\"')  + "\", \"original\" : \"" + original.replace("  </s>", "").replace('"', '\\"') + "\", \"model_rating\" : " + x[1] + ", \"model_sensitivity\" : " + str(sensitivity) + "},")
+
+for item in data:
+     allRelevant = [("ORIG", item["original"])]
+     options = item["subsets"]
+     print(len(options))
+     for i in range(len(options)):
+         s = options[i]
+         s = sorted(set(s), key=lambda x:float(x[1]))
+         print(s)
+         if len(s) >= 6:
+            select = s[:3] + s[-3:]
+         else:
+            select = s
+         print(select)
+         allRelevant += select
+     
+     while len(allRelevant) < 60:
+       allRelevant += allRelevant
+     rng.shuffle(allRelevant)
+     allRelevant = allRelevant[:60]
+
+     for i in range(60):
+        print(prettyPrint(allRelevant[i], item["sensitivity"], item["original"]), file=streams[i])
+
+for i in range(60):
+    print("];", file=streams[i])
+
+for s in streams:
+    s.close()
+
+
+
