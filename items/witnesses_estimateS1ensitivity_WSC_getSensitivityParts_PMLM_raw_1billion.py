@@ -1,7 +1,7 @@
 #######
 Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, _ anyone _ who knew that he was 19 years old could take his claim away from [ him].
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.2771600286253886
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999991600724 	 0.8399700333786011
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.2771600286254055
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999991600876 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his############ him.
 &&&&&&&&&% SUBSETS 	 [['Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his', '############', 'him.']]
 Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, _ anyone _ who knew that he was 19 years old could take his name away from [him] .	 	 tensor([-1.])
@@ -16,11 +16,11 @@ Bernard, who had not told the government official that he was less than 21 when 
 Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, _ anyone _ who knew that he was 19 years old could take his entire business on [him] .	 	 tensor([1.])
 #######
 _ Mr. Moncrieff _ visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [ his] financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 0.23401499971558662
+OVERALL SENSITIVITY ON THIS DATAPOINT 0.23401499971558892
 #######
 I tried to paint a picture of an orchard, with lemons in the _ lemon trees _ , but [ they] came out looking more like light bulbs.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.6741351722070164
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999985017225 	 0.9599800381469726
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.674135172205951
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999985021744 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons######## lemon trees , but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons', '########', 'lemon trees , but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with lemons and a _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -33,7 +33,7 @@ I tried to paint a picture of an orchard, with lemons, with _ lemon trees _, but
 I tried to paint a picture of an orchard, with lemons or other _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with lemons, with _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with lemons, with _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999950036106 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999950027754 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard,############ in the lemon trees , but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard,', '############', 'in the lemon trees , but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with a candle in the _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -46,7 +46,7 @@ I tried to paint a picture of an orchard, like a leaf in the _ lemon trees _, bu
 I tried to paint a picture of an orchard, with a light in the _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, which usually takes in the _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, and I peeked in the _ lemon trees _, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999986615421 	 0.6399401049041749
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999986615795 	 0.6399401049041749
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came########################.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came', '########################', '.']]
 I tried to paint a picture of an orchard, with lemons in the _ lemon trees _, but [they]  came up with nothing quite like that.	 	 tensor([-1.])
@@ -61,8 +61,8 @@ I tried to paint a picture of an orchard, with lemons in the _ lemon trees _, bu
 I tried to paint a picture of an orchard, with lemons in the _ lemon trees _, but [they]  came out of a field was green.	 	 tensor([1.])
 #######
 Always before, _ Larry _ had helped Dad with his work. But he could not help him now, for Dad said that [ his] boss at the railroad company would not want anyone but him to work in the office.
-OVERALL SENSITIVITY ON THIS DATAPOINT 13.919650135959023
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997087 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 13.919650135957575
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999996467 	 0.99998
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his######## But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his', '########', 'But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his business . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -75,7 +75,7 @@ Always before, _ Larry _ had helped Dad with his tasks . But he could not help h
 Always before, _ Larry _ had helped Dad with his homework, But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his homework . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his homework . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999981313 	 0.99997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999981346 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him############ Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him', '############', 'Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him - especially because Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -88,7 +88,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him with it . Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him in college when Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him with it . Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999763376 	 0.99996
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999769194 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said#### his############ railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said', '####', 'his', '############', 'railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said in [his]  obituary that the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -101,7 +101,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said during [his]  visit that a railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said with [his]  letter that the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said during [his]  interview that the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994538 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994048 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for#### said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for', '####', 'said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -114,7 +114,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for he said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for he said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for he said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998295 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997901 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work.#### he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work.', '####', 'he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -127,7 +127,7 @@ Always before, _ Larry _ had helped Dad with his work . but he could not help hi
 Always before, _ Larry _ had helped Dad with his work ., he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . if he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . and he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994121 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999993149 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with#### work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with', '####', 'work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -140,7 +140,7 @@ Always before, _ Larry _ had helped Dad with administrative work . But he could 
 Always before, _ Larry _ had helped Dad with the work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with the work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with field work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999941058 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999941638 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Always######## Larry#### helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always', '########', 'Larry', '####', 'helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always loyal, _ Larry _ also helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -153,7 +153,7 @@ Always in school _ Larry _ had helped Dad with his work . But he could not help 
 Always a friend _ Larry _ also helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always told you _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always, Uncle _ Larry _ has helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999964819 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999965737 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but############ in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but', '############', 'in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but his wife working in the office.	 	 tensor([-1.])
@@ -166,7 +166,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but Larry to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but the family man in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but Larry to be in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999956339 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999957933 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the######## would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the', '########', 'would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the grocery store would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -179,7 +179,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the mailbox would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the restaurant house would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the consulting business would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999856679 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999858933 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad#### that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad', '####', 'that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -192,7 +192,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad feared that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad knows that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad knew that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999965643 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999965639 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he#### not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he', '####', 'not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -205,7 +205,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
 Always before, _ Larry _ had helped Dad with his work . But he would not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he would not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992547 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992678 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the####.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the', '####', '.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the service.	 	 tensor([-1.])
@@ -218,7 +218,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the business.	 	 tensor([-1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the factory.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the lab.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995667672 	 0.6399801049041748
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995759082 	 0.6399801049041748
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want######## him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want', '########', 'him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want him or him to work in the office.	 	 tensor([-1.])
@@ -231,7 +231,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help hi
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want to let him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want to send him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want to allow him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999982458 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999829241 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had######## with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had', '########', 'with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had to struggle with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -244,7 +244,7 @@ Always before, _ Larry _ had to care with his work . But he could not help him n
 Always before, _ Larry _ had to live with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
 Always before, _ Larry _ had trouble breaking with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had become consumed with his work . But he could not help him now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999941733 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999994241 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could############ now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could', '############', 'now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not keep up now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -259,8 +259,8 @@ Always before, _ Larry _ had helped Dad with his work . But he could be more gen
 Always before, _ Larry _ had helped Dad with his work . But he could easily be trusted now, for Dad said that [his]  boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 #######
 Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well marry without [ his] approval.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.1181933198290426
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333195918 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.118193319824285
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333272421 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on Uncle Vernon, he couldn't very well######## his####.
 &&&&&&&&&% SUBSETS 	 [["Since Chester was dependent on Uncle Vernon, he couldn't very well", '########', 'his', '####', '.']]
 Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well relate to [his]  neighbors.	 	 tensor([-1.])
@@ -273,7 +273,7 @@ Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well care for 
 Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well pay with [his]  own.	 	 tensor([1.])
 Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well care for [his]  own.	 	 tensor([1.])
 Since _ Chester _ was dependent on Uncle Vernon, he couldn't very well be on [his]  own.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666666645001 	 0.99996
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666666634649 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on################ couldn't very well marry without his approval.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was dependent on', '################', "couldn't very well marry without his approval."]]
 Since _ Chester _ was dependent on his parents, he couldn't very well marry without [his]  approval.	 	 tensor([-1.])
@@ -286,7 +286,7 @@ Since _ Chester _ was dependent on him, the girl couldn't very well marry withou
 Since _ Chester _ was dependent on my marriage, I couldn't very well marry without [his]  approval.	 	 tensor([1.])
 Since _ Chester _ was dependent on her money, he couldn't very well marry without [his]  approval.	 	 tensor([1.])
 Since _ Chester _ was dependent on us financially, we couldn't very well marry without [his]  approval.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666666254278 	 0.93743
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666666478239 	 0.93743
 &&&&&&&&&@ SUBSETS 	 #### Chester#### dependent on Uncle Vernon, he############ very well marry#### his####.
 &&&&&&&&&% SUBSETS 	 [['####', 'Chester', '####', 'dependent on Uncle Vernon, he', '############', 'very well marry', '####', 'his', '####', '.']]
 Were _ Chester _ too dependent on Uncle Vernon, he probably would have very well marry out [his]  divorce.	 	 tensor([-1.])
@@ -305,7 +305,7 @@ If _ Chester _ was dependent on Uncle Vernon, he'd probably very well marry for 
 If _ Chester _ is dependent on Uncle Vernon, he'll probably very well marry off [his]  wife.	 	 tensor([1.])
 Although _ Chester _ was dependent on Uncle Vernon, he believed he could very well marry off [his]  wife.	 	 tensor([1.])
 If _ Chester _ is dependent on Uncle Vernon, he could very, very well marry off [his]  girlfriend.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333333030946 	 0.8399199737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.333333333331401 	 0.8399199737739563
 &&&&&&&&&@ SUBSETS 	 #### Chester################ Vernon, he couldn't############ without his approval.
 &&&&&&&&&% SUBSETS 	 [['####', 'Chester', '################', "Vernon, he couldn't", '############', 'without his approval.']]
 In _ Chester _ County, near Mount Vernon, he couldn't build a church without [his]  approval.	 	 tensor([-1.])
@@ -318,7 +318,7 @@ If _ Chester _ Taylor was playing at Vernon, he couldn't walk any further withou
 Like _ Chester _ A . H . Vernon, he couldn't design a house without [his]  approval.	 	 tensor([1.])
 And _ Chester _ was never happy with Vernon, he couldn't do a show without [his]  approval.	 	 tensor([1.])
 As _ Chester _ was known for its Vernon, he couldn't sign the contract without [his]  approval.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333290601 	 0.6399099856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333333223725 	 0.6399099856948852
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on Uncle#################################### without his approval.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was dependent on Uncle', '####################################', 'without his approval.']]
 Since _ Chester _ was dependent on Uncle Sam, and I can't sell it without [his]  approval.	 	 tensor([-1.])
@@ -333,8 +333,8 @@ Since _ Chester _ was dependent on Uncle Sam to pay for his mortgage and other t
 Since _ Chester _ was dependent on Uncle Sam for a large portion of his life . without [his]  approval.	 	 tensor([1.])
 #######
 The large ball crashed right through _ the table _ because [ it] was made of styrofoam.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.0798501026040825
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996857104 	 0.9599600381469726
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.0798501026044147
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996868504 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  The large ball############ the table#### it was made of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The large ball', '############', 'the table', '####', 'it was made of styrofoam.']]
 The large ball was still on _ the table _ and [it]  was made of styrofoam.	 	 tensor([-1.])
@@ -347,7 +347,7 @@ The large ball was placed on _ the table _ where [it]  was made of styrofoam.	 	
 The large ball did not reach _ the table _ because [it]  was made of styrofoam.	 	 tensor([1.])
 The large ball seemed to hit _ the table _ if [it]  was made of styrofoam.	 	 tensor([1.])
 The large ball that was on _ the table _ under [it]  was made of styrofoam.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996668765 	 0.8399299737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996664638 	 0.8399299737739563
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table because it was made############################.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table because it was made', '############################', '.']]
 The large ball crashed right through _ the table _ because [it]  was made out of a small, silver shell.	 	 tensor([-1.])
@@ -360,7 +360,7 @@ The large ball crashed right through _ the table _ because [it]  was made of pla
 The large ball crashed right through _ the table _ because [it]  was made of bricks, the TV report said.	 	 tensor([1.])
 The large ball crashed right through _ the table _ because [it]  was made of a very large bit of mud.	 	 tensor([1.])
 The large ball crashed right through _ the table _ because [it]  was made out of paper, the prosecutor said.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999287903 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999283836 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  The######## crashed right through the table because it was made of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The', '########', 'crashed right through the table because it was made of styrofoam.']]
 The second straw crashed right through _ the table _ because [it]  was made of styrofoam.	 	 tensor([-1.])
@@ -373,7 +373,7 @@ The other salad crashed right through _ the table _ because [it]  was made of st
 The grill crashed right through _ the table _ because [it]  was made of styrofoam.	 	 tensor([1.])
 The hothead crashed right through _ the table _ because [it]  was made of styrofoam.	 	 tensor([1.])
 The rover crashed right through _ the table _ because [it]  was made of styrofoam.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996890017 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996892207 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table because it######## of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table because it', '########', 'of styrofoam.']]
 The large ball crashed right through _ the table _ because [it]  had smelled of styrofoam.	 	 tensor([-1.])
@@ -388,8 +388,8 @@ The large ball crashed right through _ the table _ because [it]  was made of sty
 The large ball crashed right through _ the table _ because [it]  was kind of styrofoam.	 	 tensor([1.])
 #######
 _ The path _ to the lake was blocked, so we couldn't use [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.8399299737770904
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999743785 	 0.99996
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.8399299737729726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999982644 	 0.99996
 &&&&&&&&&@ SUBSETS 	  The path to the lake was blocked, so we################ it.
 &&&&&&&&&% SUBSETS 	 [['The path to the lake was blocked, so we', '################', 'it.']]
 _ The path _ to the lake was blocked, so we didn't reach [it] .	 	 tensor([-1.])
@@ -402,7 +402,7 @@ _ The path _ to the lake was blocked, so we were told to follow [it] .	 	 tensor
 _ The path _ to the lake was blocked, so we forced ourselves out of [it] .	 	 tensor([1.])
 _ The path _ to the lake was blocked, so we couldn't cross [it] .	 	 tensor([1.])
 _ The path _ to the lake was blocked, so we have to walk along [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998355731935 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998807923678 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  The path to############ blocked, so we couldn't use it.
 &&&&&&&&&% SUBSETS 	 [['The path to', '############', "blocked, so we couldn't use it."]]
 _ The path _ to these roads was blocked, so we couldn't use [it] .	 	 tensor([-1.])
@@ -417,8 +417,8 @@ _ The path _ to the hill was blocked, so we couldn't use [it] .	 	 tensor([1.])
 _ The path _ to our house was blocked, so we couldn't use [it] .	 	 tensor([1.])
 #######
 While Nancy and _ Ellen _ counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at [ her] stricken face told the girls that the precious map was gone.
-OVERALL SENSITIVITY ON THIS DATAPOINT 16.479649840280583
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994935 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 16.47964984028093
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999999449 	 0.99998
 &&&&&&&&&@ SUBSETS 	  While Nancy#### Ellen#### the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy', '####', 'Ellen', '####', 'the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ cleaned the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -427,7 +427,7 @@ While Nancy and _ Ellen _ cleaned the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ inspected the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ sorted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ had the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999999037 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999988798 	 0.99998
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one######## her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one', '########', 'her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look on [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -440,7 +440,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one voice near [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one time in [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one voice in [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5057581944687387 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5057581980317235 	 0.99998
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face######## girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face', '########', 'girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face showed the girls that the precious map was gone.	 	 tensor([-1.])
@@ -453,7 +453,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face revealed her girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face warned the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face warned the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999999943 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999999392 	 0.99998
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened######## In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened', '########', 'In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened to leave In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -466,7 +466,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened herself: 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened by: In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened: " In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened by: In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999991952 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992817 	 0.99998
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious######## gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious', '########', 'gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious items were gone.	 	 tensor([-1.])
@@ -479,7 +479,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious money is gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious medal had gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious gift was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999975749 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999976578 	 0.99998
 &&&&&&&&&@ SUBSETS 	 ######## and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['########', 'and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 As Mark and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -492,7 +492,7 @@ As she and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In 
 As he and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 As she and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 As he and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996966603 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996918145 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that#### precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that', '####', 'precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -505,7 +505,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that their precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that their precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that their precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999985403 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999985045 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes######## and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes', '########', 'and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she arrived and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -518,7 +518,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes a smile and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes, Susan and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she awoke and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998233 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999999365 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the############ Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the', '############', 'Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the hours remaining, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -531,7 +531,7 @@ While Nancy and _ Ellen _ counted the money down, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the many dead, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the lost ones, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the winning numbers, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997975 	 0.8399900333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997251 	 0.8399900333786011
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken#### told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken', '####', 'told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -544,7 +544,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken and told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken mother told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken daughter told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999999662 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998703 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted#### silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted', '####', 'silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted some silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -557,7 +557,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted out silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted their silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted their silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997069 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997692 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs.#### a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs.', '####', 'a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . Within a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -570,7 +570,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . After a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . After a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . After a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999933129268 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999932036926 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs.#### hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs.', '####', 'hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Obama hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -583,7 +583,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Obama hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Reagan hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Clinton hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Reagan hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999996607 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999999749 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was####.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was', '####', '.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -596,7 +596,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was safe.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was safe.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was safe.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999993615 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999993244 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the#### that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the', '####', 'that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the world that the precious map was gone.	 	 tensor([-1.])
@@ -609,7 +609,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the children that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the family that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the couple that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999970864 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999970216 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In############ she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In', '############', 'she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In recent days, she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -622,7 +622,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In the next scene she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In the hallway, she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In the night, she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49424180553215913 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49424180196922307 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face#### the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face', '####', 'the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -635,7 +635,7 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs 
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face informed the girls that the precious map was gone.	 	 tensor([1.])
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith hastened upstairs . In a few minutes she returned and one look at [her]  stricken face informed the girls that the precious map was gone.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999996844 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999995715 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  While Nancy and Ellen counted the silverware, Mrs. Smith############ upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.
 &&&&&&&&&% SUBSETS 	 [['While Nancy and Ellen counted the silverware, Mrs. Smith', '############', 'upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone.']]
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith returned to step upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([-1.])
@@ -650,8 +650,8 @@ While Nancy and _ Ellen _ counted the silverware, Mrs . Smith' ticked upstairs .
 While Nancy and _ Ellen _ counted the silverware, Mrs . Smith had her move upstairs . In a few minutes she returned and one look at [her]  stricken face told the girls that the precious map was gone.	 	 tensor([1.])
 #######
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried. Fortunately, in flying over the town, an old marabou bird has seen [ them] and come back quickly to tell the news.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.859104940389293
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999807687 	 0.859175
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.8591049403880895
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999812216 	 0.859175
 &&&&&&&&&@ SUBSETS 	 ################################ are calling and hunting high and low for######################## their mothers are very worried. Fortunately, in flying######################## marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['################################', 'are calling and hunting high and low for', '########################', 'their mothers are very worried. Fortunately, in flying', '########################', 'marabou bird has seen them and come back quickly to tell the news.']]
 The birds have returned to their perch and are calling and hunting high and low for months, but it seems likely _ their mothers _ are very worried . Fortunately, in flying from time to time, one marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -670,7 +670,7 @@ At the time of the year, birds are calling and hunting high and low for many fam
 She said: " Grabbs that are calling and hunting high and low for some time are now home and _ their mothers _ are very worried . Fortunately, in flying, on sight, the large marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 That means many people around the United States are calling and hunting high and low for the bird because they think that _ their mothers _ are very worried . Fortunately, in flying across a different country to the marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 We are all in the herd, which are calling and hunting high and low for the next few days, and _ their mothers _ are very worried . Fortunately, in flying time, a male and female marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4155482364591872 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4155482384729335 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou############ them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou', '############', 'them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old maraboun will hear [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -683,7 +683,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old marabount comes to [them]  and come back quickly to tell the news.	 	 tensor([-1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old maraboune can hear [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old maraboula can contact [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5844517634704373 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5844517614593572 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has#### them######## back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has', '####', 'them', '########', 'back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old marabou bird has spotted [them]  and flies back quickly to tell the news.	 	 tensor([-1.])
@@ -698,8 +698,8 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and _ their mothers _ are very worried . Fortunately, in flying over the town, an old marabou bird has given [them]  his time back quickly to tell the news.	 	 tensor([1.])
 #######
 _ The customer _ walked into the bank and stabbed one of the tellers. [ He] was immediately taken to the hospital.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.3442049546954515
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999447623 	 0.984255
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.3442049546953612
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999442947 	 0.984255
 &&&&&&&&&@ SUBSETS 	  The customer walked into the bank and stabbed######################## He########################.
 &&&&&&&&&% SUBSETS 	 [['The customer walked into the bank and stabbed', '########################', 'He', '########################', '.']]
 _ The customer _ walked into the bank and stabbed her three times, according to [He] ndrickson and police reports.	 	 tensor([-1.])
@@ -720,8 +720,8 @@ _ The customer _ walked into the bank and stabbed the manager in the shoulder, [
 _ The customer _ walked into the bank and stabbed him in the back, " [He] cht told Reuters by telephone.	 	 tensor([1.])
 #######
 _ Jane _ gave Joan candy because [ she] was hungry.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.5999599046382142
-&&&&&&&&&&& SUBSET SENSITIVITY 	 1.0000000000005058 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.5999599046339474
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999999777 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan#### because she was hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan', '####', 'because she was hungry.']]
 _ Jane _ gave Joan food because [she]  was hungry.	 	 tensor([-1.])
@@ -734,7 +734,7 @@ _ Jane _ gave Joan up because [she]  was hungry.	 	 tensor([1.])
 _ Jane _ gave Joan out because [she]  was hungry.	 	 tensor([1.])
 _ Jane _ gave Joan out because [she]  was hungry.	 	 tensor([1.])
 _ Jane _ gave Joan up because [she]  was hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999832921156 	 0.9599899189376832
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999877301832 	 0.9599899189376832
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she was####.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan candy because she was', '####', '.']]
 _ Jane _ gave Joan candy because [she]  was sweet.	 	 tensor([-1.])
@@ -747,7 +747,7 @@ _ Jane _ gave Joan candy because [she]  was sick.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  was depressed.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  was excited.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  was angry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999992568 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999946007 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Jane#### Joan candy#### she was hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane', '####', 'Joan candy', '####', 'she was hungry.']]
 _ Jane _ gave Joan candy when [she]  was hungry.	 	 tensor([-1.])
@@ -762,8 +762,8 @@ _ Jane _ told Joan candy that [she]  was hungry.	 	 tensor([1.])
 _ Jane _ asked Joan candy why [she]  was hungry.	 	 tensor([1.])
 #######
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [ they] came out looking more like light bulbs.
-OVERALL SENSITIVITY ON THIS DATAPOINT 10.69864907815549
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999821011 	 0.9599901573562623
+OVERALL SENSITIVITY ON THIS DATAPOINT 10.698649078155496
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999821008 	 0.9599901573562623
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like#### bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like', '####', 'bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like a bulbs.	 	 tensor([-1.])
@@ -786,7 +786,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like winter bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like new bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like ordinary bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999729251 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999729248 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking######## light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking', '########', 'light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking on the light bulbs.	 	 tensor([-1.])
@@ -809,7 +809,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking like fluorescent light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking like old light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking as fluorescent light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999363682 	 0.9599799189376831
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999363681 	 0.9599799189376831
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons######## lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons', '########', 'lemon trees, but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ and other lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -832,7 +832,7 @@ I tried to paint a picture of an orchard, with _ lemons _ up like lemon trees, b
 I tried to paint a picture of an orchard, with _ lemons _ and cherry lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ and a lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _, no lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997690492 	 0.9099898474121094
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997690482 	 0.9099898474121094
 &&&&&&&&&@ SUBSETS 	  I tried to#### a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to', '####', 'a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.']]
 I tried to take a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -855,7 +855,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994324018 	 0.8888490147209167
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994324005 	 0.8888490147209167
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon############ they#### out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon', '############', 'they', '####', 'out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the lemonlight, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -876,7 +876,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon - - all [
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon tree, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon fields, but [they]  turned out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon leaf tree as [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999403841 	 0.8399898545646668
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999403831 	 0.8399898545646668
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out#### more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out', '####', 'more like light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out much more like light bulbs.	 	 tensor([-1.])
@@ -899,7 +899,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999547675 	 0.74999
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999547676 	 0.74999
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard,#### lemons in the lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard,', '####', 'lemons in the lemon trees, but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, like _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -922,7 +922,7 @@ I tried to paint a picture of an orchard, and _ lemons _ in the lemon trees, but
 I tried to paint a picture of an orchard, and _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, planting _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, of _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999140898 	 0.74997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999140894 	 0.74997
 &&&&&&&&&@ SUBSETS 	 ############ paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['############', 'paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.']]
 The LEDs paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -968,7 +968,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light candles.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light ones.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light balls.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998922268 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998922263 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an######## with lemons in the lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an', '########', 'with lemons in the lemon trees, but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orange patch with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -991,7 +991,7 @@ I tried to paint a picture of an earthfield with _ lemons _ in the lemon trees, 
 I tried to paint a picture of an orange bowl with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an island paradise with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an icebox with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998364831 	 0.5099901096725464
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998364826 	 0.5099901096725464
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the#### trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the', '####', 'trees, but they came out looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the other trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -1014,7 +1014,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the small trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the orange trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the cherry trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998476321 	 0.5099900500679017
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998476315 	 0.5099900500679017
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of#### orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of', '####', 'orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.']]
 I tried to paint a picture of that orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([-1.])
@@ -1037,7 +1037,7 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999392956 	 0.5099900500679017
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999392969 	 0.5099900500679017
 &&&&&&&&&@ SUBSETS 	  I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came#### looking more like light bulbs.
 &&&&&&&&&% SUBSETS 	 [['I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came', '####', 'looking more like light bulbs.']]
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [they]  came up looking more like light bulbs.	 	 tensor([-1.])
@@ -1085,8 +1085,8 @@ I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, bu
 I tried to paint this more of an orchard, with _ lemons _ in the lemon trees, but [they]  came out looking more like light bulbs.	 	 tensor([1.])
 #######
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden. No time today to look at old pictures in [ her] favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.439720014677032
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999445092314 	 0.9599700381469727
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.439720014680661
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999445087052 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama############ No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama', '############', 'No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.']]
 Alice was dusting the living room and trying to find the button that _ Mama _ had forgotten . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
@@ -1099,7 +1099,7 @@ Alice was dusting the living room and trying to find the button that _ Mama _ wa
 Alice was dusting the living room and trying to find the button that _ Mama _ wants it . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ never had . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _s wanted . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999978752167168 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999978752256803 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had hidden.############ to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had hidden.', '############', 'to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.']]
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . You told her to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
@@ -1112,7 +1112,7 @@ Alice was dusting the living room and trying to find the button that _ Mama _ ha
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . She was able to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . She was trying to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . She was eager to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999991293151605 	 0.63995004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999912931620843 	 0.63995004529953
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to#################### her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to', '####################', 'her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.']]
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to go to bed or take [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
@@ -1125,7 +1125,7 @@ Alice was dusting the living room and trying to find the button that _ Mama _ ha
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to have a good time playing [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to wait until she was getting [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to do things; she remembered [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999316113573 	 0.6399499856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999316038665 	 0.6399499856948853
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her#################### she had to hunt for a button, so she put the album on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her', '####################', 'she had to hunt for a button, so she put the album on a chair without even opening it.']]
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  folder; the evening after she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
@@ -1138,7 +1138,7 @@ Alice was dusting the living room and trying to find the button that _ Mama _ ha
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  living room drawer, so she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  hand, she said; she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  office drawer . That meant she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999652996007 	 0.6399199856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999652999599 	 0.6399199856948853
 &&&&&&&&&@ SUBSETS 	 ################################ trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['################################', 'trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.']]
 It took someone a full round of searches trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([-1.])
@@ -1153,8 +1153,8 @@ Then she was on her mobile phone, trying to find the button that _ Mama _ had hi
 Later, she found out that she was trying to find the button that _ Mama _ had hidden . No time today to look at old pictures in [her]  favorite photo album . Today she had to hunt for a button, so she put the album on a chair without even opening it.	 	 tensor([1.])
 #######
 Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death; his father's disciple, _ Antonio _ , takes Larry under [ his] wing, and quickly molds him into a drug runner.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.233854999993698
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998714318 	 0.99983
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.2338549999938
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998650532 	 0.99983
 &&&&&&&&&@ SUBSETS 	  Larry, a timid teen-ager, lives#################################### project. Larry Larry's father, a gang leader, was shot to death; his#################### Antonio############ Larry under his wing, and quickly molds him into a drug runner.
 &&&&&&&&&% SUBSETS 	 [['Larry, a timid teen-ager, lives', '####################################', "project. Larry Larry's father, a gang leader, was shot to death; his", '####################', 'Antonio', '############', 'Larry under his wing, and quickly molds him into a drug runner.']]
 Larry, a timid teen - ager, lives alone in a house tied up near the power project . Larry Larry's father, a gang leader, was shot to death; his sister, Marika (_ Antonio _ Gomez) takes Larry under [his]  wing, and quickly molds him into a drug runner.	 	 tensor([-1.])
@@ -1173,7 +1173,7 @@ Larry, a timid teen - ager, lives in an apartment, on a public - housing project
 Larry, a timid teen - ager, lives with his ex - girlfriend at a public housing project . Larry Larry's father, a gang leader, was shot to death; his middle - schoolr, _ Antonio _, inherits Larry under [his]  wing, and quickly molds him into a drug runner.	 	 tensor([1.])
 Larry, a timid teen - ager, lives with his grandparents in a single - family housing project . Larry Larry's father, a gang leader, was shot to death; his brother, a former San _ Antonio _ detective, takes Larry under [his]  wing, and quickly molds him into a drug runner.	 	 tensor([1.])
 Larry, a timid teen - ager, lives on an unauthorized New York housing project . Larry Larry's father, a gang leader, was shot to death; his brother, the former San _ Antonio _ mayor, takes Larry under [his]  wing, and quickly molds him into a drug runner.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996723445 	 0.99974
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999653224 	 0.99974
 &&&&&&&&&@ SUBSETS 	 #################################### with his widowed mother in a Brooklyn housing#################################### gang leader, was shot to death; his father's disciple, Antonio , takes######## his######################## him into a drug runner.
 &&&&&&&&&% SUBSETS 	 [['####################################', 'with his widowed mother in a Brooklyn housing', '####################################', "gang leader, was shot to death; his father's disciple, Antonio , takes", '########', 'his', '########################', 'him into a drug runner.']]
 His eldest brother, Carlos, languished with his widowed mother in a Brooklyn housing project until his uncle, a former drug - gang leader, was shot to death; his father's disciple, _ Antonio _, takes aim at [his]  father's attempts to turn him into a drug runner.	 	 tensor([-1.])
@@ -1194,8 +1194,8 @@ And so he was born in 1970, living with his widowed mother in a Brooklyn housing
 In 1968, when a homeless man was living with his widowed mother in a Brooklyn housing project, Hector Rodriguez, a high - ranking gang leader, was shot to death; his father's disciple, _ Antonio _, takes him to [his]  corner, and he immediately turns him into a drug runner.	 	 tensor([1.])
 #######
 Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a _ chair _ without even opening [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.8592549999669143
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999980427922 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.8592549999703472
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999998048701 	 0.99998
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put######## on a chair without even opening it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put', '########', 'on a chair without even opening it.']]
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the picture on a _ chair _ without even opening [it] .	 	 tensor([-1.])
@@ -1208,7 +1208,7 @@ Alice was dusting the living room and trying to find the button that Mama had hi
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the button on a _ chair _ without even opening [it] .	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put her eyes on a _ chair _ without even opening [it] .	 	 tensor([1.])
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put a pin on a _ chair _ without even opening [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999997991353935 	 0.859275
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999997991213929 	 0.859275
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album.############################ button, so she put the album on a chair############ it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album.', '############################', 'button, so she put the album on a chair', '############', 'it.']]
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . She couldn't feel her favorite button, so she put the album on a _ chair _ and peered into [it] .	 	 tensor([-1.])
@@ -1229,8 +1229,8 @@ Alice was dusting the living room and trying to find the button that Mama had hi
 Alice was dusting the living room and trying to find the button that Mama had hidden . No time today to look at old pictures in her favorite photo album . But she didn't get the button, so she put the album on a _ chair _ and fell under [it] .	 	 tensor([1.])
 #######
 _ Larry _ , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under [ his] wing, and quickly molds him into a drug runner.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.7497499999932002
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999052491 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.7497499999888542
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999021759 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry#### his######## and quickly molds him into a drug runner.
 &&&&&&&&&% SUBSETS 	 [["Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry", '####', 'his', '########', 'and quickly molds him into a drug runner.']]
 _ Larry _, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry in [his]  own company and quickly molds him into a drug runner.	 	 tensor([-1.])
@@ -1243,7 +1243,7 @@ _ Larry _, a timid teen - ager, lives with his widowed mother in a Brooklyn hous
 _ Larry _, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry to [his]  former school and quickly molds him into a drug runner.	 	 tensor([1.])
 _ Larry _, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry to [his]  next job and quickly molds him into a drug runner.	 	 tensor([1.])
 _ Larry _, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry off [his]  gang clothes and quickly molds him into a drug runner.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998162754 	 0.74978
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999819695 	 0.74978
 &&&&&&&&&@ SUBSETS 	  Larry################################ lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death;#################################### Larry under his wing, and quickly molds####################.
 &&&&&&&&&% SUBSETS 	 [['Larry', '################################', "lives with his widowed mother in a Brooklyn housing project. Larry Larry's father, a gang leader, was shot to death;", '####################################', 'Larry under his wing, and quickly molds', '####################', '.']]
 _ Larry _ , 19, a father of three, lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; his mother, a former police officer, took Larry under [his]  wing, and quickly molds him into a successful rapper.	 	 tensor([-1.])
@@ -1264,11 +1264,11 @@ _ Larry _ brings his children to Brooklyn, where he lives with his widowed mothe
 _ Larry _ gets his job in a drug store and lives with his widowed mother in a Brooklyn housing project . Larry Larry's father, a gang leader, was shot to death; he tries to get his old co - worker Larry under [his]  wing, and quickly molds Larry into a gang leader.	 	 tensor([1.])
 #######
 Alice was dusting the _ living room _ and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 0.35980975768205015
+OVERALL SENSITIVITY ON THIS DATAPOINT 0.3598097576820756
 #######
 Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that [ he] no longer requires his financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 5.559710019083178
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999988852761 	 0.9599801573562622
+OVERALL SENSITIVITY ON THIS DATAPOINT 5.559710019077866
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999988846365 	 0.9599801573562622
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided######## Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided", '########', "Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to claim Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -1281,7 +1281,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to freeze Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to void Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998554656 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998559974 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel############ allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel", '############', 'allowance on the ground that he no longer requires his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel his luxury spending allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -1294,7 +1294,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel his rent - allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel a monthly monthly allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel a second home allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9998746347366869 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9998746351634303 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the######## he######## requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the", '########', 'he', '########', 'requires his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the contrary, [he]  says, requires his financial support.	 	 tensor([-1.])
@@ -1307,7 +1307,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the grounds that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the grounds that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the basis that [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999862063268 	 0.8399499737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999862089054 	 0.8399499737739563
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his#### Edward################ was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his", '####', 'Edward', '################', "was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his brother _ Edward _ . the only change was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -1320,7 +1320,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _, but they learned was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _, but the result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _, but the result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996142334 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996152555 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's#### on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's", '####', 'on the ground that he no longer requires his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's funeral on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -1335,8 +1335,8 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's engagement on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 #######
 _ Fred _ watched TV while George went out to buy groceries. After an hour [ he] got back.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.7598599904695376
-&&&&&&&&&&& SUBSET SENSITIVITY 	 1.000000000000207 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.759859990472842
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998579 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries. After an hour he got####.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries. After an hour he got', '####', '.']]
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got off.	 	 tensor([-1.])
@@ -1349,7 +1349,7 @@ _ Fred _ watched TV while George went out to buy groceries . After an hour [he] 
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got dressed.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999913762 	 0.8399499737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999900625 	 0.8399499737739563
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went#################### After an hour he got back.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went', '####################', 'After an hour he got back.']]
 _ Fred _ watched TV while George went into the house . * After an hour [he]  got back.	 	 tensor([-1.])
@@ -1362,7 +1362,7 @@ _ Fred _ watched TV while George went back to bed . . After an hour [he]  got ba
 _ Fred _ watched TV while George went to bed . . . After an hour [he]  got back.	 	 tensor([1.])
 _ Fred _ watched TV while George went to bed . . . After an hour [he]  got back.	 	 tensor([1.])
 _ Fred _ watched TV while George went to bed . . . After an hour [he]  got back.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999985958 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999968915 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while#### went out to buy groceries. After an hour he got back.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while', '####', 'went out to buy groceries. After an hour he got back.']]
 _ Fred _ watched TV while Janet went out to buy groceries . After an hour [he]  got back.	 	 tensor([-1.])
@@ -1375,7 +1375,7 @@ _ Fred _ watched TV while I went out to buy groceries . After an hour [he]  got 
 _ Fred _ watched TV while he went out to buy groceries . After an hour [he]  got back.	 	 tensor([1.])
 _ Fred _ watched TV while I went out to buy groceries . After an hour [he]  got back.	 	 tensor([1.])
 _ Fred _ watched TV while she went out to buy groceries . After an hour [he]  got back.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999952203 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999963574 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Fred############ George went out to buy groceries. After an hour he got back.
 &&&&&&&&&% SUBSETS 	 [['Fred', '############', 'George went out to buy groceries. After an hour he got back.']]
 _ Fred _: Hey, George went out to buy groceries . After an hour [he]  got back.	 	 tensor([-1.])
@@ -1388,7 +1388,7 @@ _ Fred _'s son George went out to buy groceries . After an hour [he]  got back.	
 _ Fred _, Mike and George went out to buy groceries . After an hour [he]  got back.	 	 tensor([-1.])
 _ Fred _, me and George went out to buy groceries . After an hour [he]  got back.	 	 tensor([1.])
 _ Fred _ & I & George went out to buy groceries . After an hour [he]  got back.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999944933 	 0.63996004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999934978 	 0.63996004529953
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries.############ he#### back.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries.', '############', 'he', '####', 'back.']]
 _ Fred _ watched TV while George went out to buy groceries . . . and [he]  came back.	 	 tensor([-1.])
@@ -1403,8 +1403,8 @@ _ Fred _ watched TV while George went out to buy groceries . . . and [he]  laid 
 _ Fred _ watched TV while George went out to buy groceries . . . Then [he]  stood back.	 	 tensor([1.])
 #######
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _ , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen [ them] and come back quickly to tell the news.
-OVERALL SENSITIVITY ON THIS DATAPOINT 10.599530023899376
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982315 	 0.9599800381469726
+OVERALL SENSITIVITY ON THIS DATAPOINT 10.59953002389766
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982185 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high######## for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high', '########', 'for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high frequency, for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1417,7 +1417,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high - winds for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999966004 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999966646 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried.############ flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried.', '############', 'flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . • Far from flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1430,7 +1430,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . With a helicopter flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . But, despite flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . * * Just flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995065068 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995195723 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly################.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly', '################', '.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to rescue that girl.	 	 tensor([-1.])
@@ -1443,7 +1443,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly with another elf.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly and unaided.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to search after them.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999914393 	 0.9599499189376831
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999917014 	 0.9599499189376831
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste#################### are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste', '####################', 'are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _ to catch, and they are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1456,7 +1456,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _; both of these people are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _ . " I think they are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and the other tourists are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999897616 	 0.9599400381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999900405 	 0.9599400381469727
 &&&&&&&&&@ SUBSETS 	 ######################## the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 I am very saddened that the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1469,7 +1469,7 @@ When the elephants start fleeing, the elephants are calling and hunting high and
 In the past few days, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 She says, " Right now the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 " It's over and the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999996851 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999996398 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low#### Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low', '####', 'Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low . _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1482,7 +1482,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low; _ 
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982406 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999983024 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and######## and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and', '########', 'and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and flying low and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1495,7 +1495,7 @@ Meanwhile, in the forest, the elephants are calling and feeding low and low for 
 Meanwhile, in the forest, the elephants are calling and jumping high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and ringing high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and calling low and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998536319 	 0.8399399737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998577916 	 0.8399399737739563
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town,######################## has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town,', '########################', 'has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, a large animal called a deer has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1508,7 +1508,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, they will hear from anyone who has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, a woman from the same village has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, we found the smallest of these has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998509297 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998552377 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird######## them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird', '########', 'them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird cannot hear [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1521,7 +1521,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird will follow [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird would detect [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird will see [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999953655 	 0.63997004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999955494 	 0.63997004529953
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants############ hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants', '############', 'hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants that had been hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1534,7 +1534,7 @@ Meanwhile, in the forest, the elephants have been out hunting high and low for _
 Meanwhile, in the forest, the elephants are coming up hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants have decided against hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants have been spotted hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998486526 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998530311 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them############ quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them', '############', 'quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  fly high and quickly to tell the news.	 	 tensor([-1.])
@@ -1547,7 +1547,7 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and they respond quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and they move quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and has moved quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999989324 	 0.63996004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999896794 	 0.63996004529953
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers################ Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers', '################', 'Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers, the children and Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -1562,8 +1562,8 @@ Meanwhile, in the forest, the elephants are calling and hunting high and low for
 Meanwhile, in the forest, the elephants are calling and hunting high and low for _ Arthur and Celeste _, and their mothers and grandmothers . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 #######
 Since _ Chester _ was dependent on Uncle Vernon, [ he] couldn't very well marry without his approval.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.5542450025617023
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999948865831 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.5542450025618044
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999948866085 	 0.99998
 &&&&&&&&&@ SUBSETS 	  Since Chester was######## Uncle Vernon, he couldn't very well marry without his approval.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was', '########', "Uncle Vernon, he couldn't very well marry without his approval."]]
 Since _ Chester _ was known as Uncle Vernon, [he]  couldn't very well marry without his approval.	 	 tensor([-1.])
@@ -1576,7 +1576,7 @@ Since _ Chester _ was adopted by Uncle Vernon, [he]  couldn't very well marry wi
 Since _ Chester _ was adopted by Uncle Vernon, [he]  couldn't very well marry without his approval.	 	 tensor([1.])
 Since _ Chester _ was identified as Uncle Vernon, [he]  couldn't very well marry without his approval.	 	 tensor([1.])
 Since _ Chester _ was raised by Uncle Vernon, [he]  couldn't very well marry without his approval.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999958933262 	 0.99997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999958932744 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on Uncle Vernon, he couldn't very well marry############.
 &&&&&&&&&% SUBSETS 	 [["Since Chester was dependent on Uncle Vernon, he couldn't very well marry", '############', '.']]
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't very well marry one of them.	 	 tensor([-1.])
@@ -1589,7 +1589,7 @@ Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't very well marry 
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't very well marry the next girl.	 	 tensor([1.])
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't very well marry that Uncle Vernon.	 	 tensor([1.])
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't very well marry the new Anne.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999973657576 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999973658875 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on Uncle Vernon, he couldn't######## marry without his approval.
 &&&&&&&&&% SUBSETS 	 [["Since Chester was dependent on Uncle Vernon, he couldn't", '########', 'marry without his approval.']]
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't have him marry without his approval.	 	 tensor([-1.])
@@ -1604,8 +1604,8 @@ Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't afford to marry 
 Since _ Chester _ was dependent on Uncle Vernon, [he]  couldn't get to marry without his approval.	 	 tensor([1.])
 #######
 Jane gave _ Joan _ candy because [ she] wasn't hungry.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.7899199050567236
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999491367 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.789919905056723
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999491369 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy#### she wasn't hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan candy', '####', "she wasn't hungry."]]
 Jane gave _ Joan _ candy because [she]  wasn't hungry.	 	 tensor([-1.])
@@ -1618,7 +1618,7 @@ Jane gave _ Joan _ candy when [she]  wasn't hungry.	 	 tensor([1.])
 Jane gave _ Joan _ candy when [she]  wasn't hungry.	 	 tensor([1.])
 Jane gave _ Joan _ candy when [she]  wasn't hungry.	 	 tensor([1.])
 Jane gave _ Joan _ candy when [she]  wasn't hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999681387 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999681385 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she wasn't####.
 &&&&&&&&&% SUBSETS 	 [["Jane gave Joan candy because she wasn't", '####', '.']]
 Jane gave _ Joan _ candy because [she]  wasn't interested.	 	 tensor([-1.])
@@ -1631,7 +1631,7 @@ Jane gave _ Joan _ candy because [she]  wasn't hungry.	 	 tensor([-1.])
 Jane gave _ Joan _ candy because [she]  wasn't drunk.	 	 tensor([1.])
 Jane gave _ Joan _ candy because [she]  wasn't afraid.	 	 tensor([1.])
 Jane gave _ Joan _ candy because [she]  wasn't fat.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999980535856 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999980535855 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she############ hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan candy because she', '############', 'hungry.']]
 Jane gave _ Joan _ candy because [she]  thought she was hungry.	 	 tensor([-1.])
@@ -1644,7 +1644,7 @@ Jane gave _ Joan _ candy because [she]  wasn't hungry.	 	 tensor([-1.])
 Jane gave _ Joan _ candy because [she]  had already been hungry.	 	 tensor([1.])
 Jane gave _ Joan _ candy because [she]  felt awfully hungry.	 	 tensor([1.])
 Jane gave _ Joan _ candy because [she]  was fat and hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999990585065 	 0.74998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999990585063 	 0.74998
 &&&&&&&&&@ SUBSETS 	  Jane#### Joan#### because she wasn't hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane', '####', 'Joan', '####', "because she wasn't hungry."]]
 Jane left _ Joan _ show because [she]  wasn't hungry.	 	 tensor([-1.])
@@ -1661,8 +1661,8 @@ Jane told _ Joan _ died because [she]  wasn't hungry.	 	 tensor([1.])
 Jane thought _ Joan _ drowned because [she]  wasn't hungry.	 	 tensor([1.])
 #######
 Always before, Larry had helped _ Dad _ with his work. But [ he] could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.199860047813716
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999996231203223 	 0.9599700381469727
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.1998600478045747
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999996231340639 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he############ him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he', '############', 'him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had helped _ Dad _ with his work . But [he]  's missed him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1675,7 +1675,7 @@ Always before, Larry had helped _ Dad _ with his work . But [he]  was always lik
 Always before, Larry had helped _ Dad _ with his work . But [he]  has turned on him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But [he]  has been with him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But [he]  always worked for him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998275899 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998296891 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	 ################ had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['################', 'had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Yes, Zip had helped _ Dad _ with his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1688,7 +1688,7 @@ He said that he had helped _ Dad _ with his work . But [he]  could not help him 
 He said that he had helped _ Dad _ with his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 This was because he had helped _ Dad _ with his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 At first, he had helped _ Dad _ with his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998529192056 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998529200749 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had#### Dad#### his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had', '####', 'Dad', '####', 'his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had helped _ Dad _ in his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1701,7 +1701,7 @@ Always before, Larry had accompanied _ Dad _ round his work . But [he]  could no
 Always before, Larry had helped _ Dad _ with his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
 Always before, Larry had told _ Dad _ about his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had been _ Dad _ doing his work . But [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999200235 	 0.6399499856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999205385 	 0.6399499856948853
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help#################### said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help', '####################', 'said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had helped _ Dad _ with his work . But [he]  could not help his work, and Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1716,8 +1716,8 @@ Always before, Larry had helped _ Dad _ with his work . But [he]  could not help
 Always before, Larry had helped _ Dad _ with his work . But [he]  could not help himself for it . He said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 #######
 The large ball crashed right through _ the table _ because [ it] was made of steel.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.2298999595236255
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999835458 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.22989995952362
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999846474 	 0.99998
 &&&&&&&&&@ SUBSETS 	  The######## crashed right through the table because it was made of steel.
 &&&&&&&&&% SUBSETS 	 [['The', '########', 'crashed right through the table because it was made of steel.']]
 The entire piece crashed right through _ the table _ because [it]  was made of steel.	 	 tensor([-1.])
@@ -1730,7 +1730,7 @@ The plastic gun crashed right through _ the table _ because [it]  was made of st
 The first one crashed right through _ the table _ because [it]  was made of steel.	 	 tensor([1.])
 The aluminum plate crashed right through _ the table _ because [it]  was made of steel.	 	 tensor([1.])
 The ball that crashed right through _ the table _ because [it]  was made of steel.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999661361 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999656054 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  The large ball############ the table because it was made of steel.
 &&&&&&&&&% SUBSETS 	 [['The large ball', '############', 'the table because it was made of steel.']]
 The large ball was not on _ the table _ because [it]  was made of steel.	 	 tensor([-1.])
@@ -1743,7 +1743,7 @@ The large ball was removed from _ the table _ because [it]  was made of steel.	 
 The large ball was placed on _ the table _ because [it]  was made of steel.	 	 tensor([1.])
 The large ball was removed from _ the table _ because [it]  was made of steel.	 	 tensor([1.])
 The large ball was removed from _ the table _ because [it]  was made of steel.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998074041 	 0.74997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998068719 	 0.74997
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table#### it was made########.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table', '####', 'it was made', '########', '.']]
 The large ball crashed right through _ the table _ as [it]  was made to play.	 	 tensor([-1.])
@@ -1762,7 +1762,7 @@ The large ball crashed right through _ the table _ and [it]  was made a mess.	 	
 The large ball crashed right through _ the table _ while [it]  was made to move.	 	 tensor([1.])
 The large ball crashed right through _ the table _ and [it]  was made of metal.	 	 tensor([1.])
 The large ball crashed right through _ the table _ when [it]  was made from steel.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997404797 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997416232 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table because it######## of steel.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table because it', '########', 'of steel.']]
 The large ball crashed right through _ the table _ because [it]  flew out of steel.	 	 tensor([-1.])
@@ -1777,8 +1777,8 @@ The large ball crashed right through _ the table _ because [it]  was made of ste
 The large ball crashed right through _ the table _ because [it]  was made of steel.	 	 tensor([1.])
 #######
 Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry _ Larry's father _ , a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under [ his] wing, and quickly molds him into a drug runner.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.555195641486171
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998619614254 	 0.99982
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.5551956414859116
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998619570291 	 0.99982
 &&&&&&&&&@ SUBSETS 	  Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing############ Larry's father######## a gang leader, was shot to death; his father's disciple, Antonio, takes######## his############################################.
 &&&&&&&&&% SUBSETS 	 [['Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing', '############', "Larry's father", '########', "a gang leader, was shot to death; his father's disciple, Antonio, takes", '########', 'his', '############################################', '.']]
 Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project in which _ Larry's father _ Michael, a gang leader, was shot to death; his father's disciple, Antonio, takes refuge in [his]  apartment with a friend, a gun and three other friends.	 	 tensor([-1.])
@@ -1797,7 +1797,7 @@ Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing 
 Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project, where _ Larry's father _, once a gang leader, was shot to death; his father's disciple, Antonio, takes revenge on [his]  son for shooting him with a bullet on a street corner.	 	 tensor([1.])
 Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing complex; now _ Larry's father _, himself a gang leader, was shot to death; his father's disciple, Antonio, takes up with [his]  uncle in a housing complex, and they both become brothers.	 	 tensor([1.])
 Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project, where _ Larry's father _, also a gang leader, was shot to death; his father's disciple, Antonio, takes care of [his]  children, which is why he takes up the streets himself.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.99999999913383 	 0.5553756416511536
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999991345905 	 0.5553756416511536
 &&&&&&&&&@ SUBSETS 	  Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father ,######################################################################## Larry under his wing, and quickly molds him into a drug runner.
 &&&&&&&&&% SUBSETS 	 [["Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father ,", '########################################################################', 'Larry under his wing, and quickly molds him into a drug runner.']]
 Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing project . Larry _ Larry's father _, a pimp, gets out of a truck and gets a $100 check, takes Larry under [his]  wing, and quickly molds him into a drug runner.	 	 tensor([-1.])
@@ -1810,8 +1810,8 @@ Larry, a timid teen - ager, lives with his widowed mother in a Brooklyn housing 
 Well satisfied with [ his] purchases and feeling very elegant indeed, Babar goes to _ the photographer _ to have his picture taken.
 #######
 Always before, Larry had helped _ Dad _ with his work. But he could not help [ him] now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.435425636888449
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999827753 	 0.9599901573562623
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.435425636894012
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999980195 	 0.9599901573562623
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not#### him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not', '####', 'him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had helped _ Dad _ with his work . But he could not blame [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1824,7 +1824,7 @@ Always before, Larry had helped _ Dad _ with his work . But he could not help [h
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999985993 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997522 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him######## for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him', '########', 'for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  when looking for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1837,7 +1837,7 @@ Always before, Larry had helped _ Dad _ with his work . But he could not help [h
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  after caring for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him]  when working for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, Larry had helped _ Dad _ with his work . But he could not help [him] , even for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999945990504 	 0.5555356416511535
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999926236912 	 0.5555356416511535
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had#### Dad#### his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had', '####', 'Dad', '####', 'his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, Larry had questioned _ Dad _ over his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -1848,8 +1848,8 @@ Always before, Larry had encouraged _ Dad _ in his work . But he could not help 
 Always before, Larry had been _ Dad _ all his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 #######
 Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [ his] financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 6.119780318196602
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999880625180523 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 6.119780318471503
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999880576278245 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel############ allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel", '############', 'allowance on the ground that he no longer requires his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel his wife an allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -1862,7 +1862,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel his child support allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel the monthly living allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel that of his allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999875137346779 	 0.99997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999987508593525 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his#### Edward######## The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his", '####', 'Edward', '########', "The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ Sr . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -1871,7 +1871,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his friend _ Edward _ A . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his friend _ Edward _ G . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his friend _ Edward _ Alexander . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999731028060068 	 0.9599901573562623
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999730913577505 	 0.9599901573562623
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial####.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial", '####', '.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial assistance.	 	 tensor([-1.])
@@ -1884,7 +1884,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial allowance.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial security.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial independence.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999728877476536 	 0.9599701573562622
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999728765577159 	 0.9599701573562622
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has############ Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has", '############', "Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has refused to provide Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -1897,7 +1897,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has the use of Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has no claim for Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has been removed from Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999937997555 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999937405695 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he############ his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he", '############', 'his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he would not return [his]  financial support.	 	 tensor([-1.])
@@ -1910,7 +1910,7 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he did not want [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he could not afford [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he is paying for [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999461973353636 	 0.63996004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999461779430205 	 0.63996004529953
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance################ he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward's allowance", '################', 'he no longer requires his financial support.']]
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowances, so that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -1925,8 +1925,8 @@ Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it 
 Mr . Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son _ Edward _ . The result was that Mr . Moncrieff has decided to cancel Edward's allowances and claim that he no longer requires [his]  financial support.	 	 tensor([1.])
 #######
 The path to _ the lake _ was blocked, so we couldn't use [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.9759904584362793
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999939981025 	 0.9916654583740234
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.9759904584362753
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999939980806 	 0.9916654583740234
 &&&&&&&&&@ SUBSETS 	 ############ the lake was################ couldn't use it.
 &&&&&&&&&% SUBSETS 	 [['############', 'the lake was', '################', "couldn't use it."]]
 The water in _ the lake _ was so high, you couldn't use [it] .	 	 tensor([-1.])
@@ -1940,7 +1940,7 @@ He said until _ the lake _ was a tourist attraction he couldn't use [it] .	 	 te
 By that time _ the lake _ was full and the public couldn't use [it] .	 	 tensor([1.])
 At that point _ the lake _ was so big that it couldn't use [it] .	 	 tensor([1.])
 A lot of _ the lake _ was dry when the fishermen couldn't use [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999978581147 	 0.984325
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999978581112 	 0.984325
 &&&&&&&&&@ SUBSETS 	  The path to the lake#### blocked, so we################ it.
 &&&&&&&&&% SUBSETS 	 [['The path to the lake', '####', 'blocked, so we', '################', 'it.']]
 The path to _ the lake _ was blocked, so we would have to cross [it] .	 	 tensor([-1.])
@@ -1961,8 +1961,8 @@ The path to _ the lake _ is blocked, so we don't make [it] .	 	 tensor([1.])
 The path to _ the lake _ was blocked, so we couldn't reach [it] .	 	 tensor([1.])
 #######
 Everyone really loved _ the oatmeal cookies _ ; only a few people liked the chocolate chip cookies. Next time, we should make more of [ them].
-OVERALL SENSITIVITY ON THIS DATAPOINT 6.759790046161462
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996600134 	 0.9599800381469726
+OVERALL SENSITIVITY ON THIS DATAPOINT 6.759790046161807
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996603958 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies######## only a few people liked the chocolate chip cookies. Next time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies', '########', 'only a few people liked the chocolate chip cookies. Next time, we should make more of them.']]
 Everyone really loved _ the oatmeal cookies _, but only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([-1.])
@@ -1975,7 +1975,7 @@ Everyone really loved _ the oatmeal cookies _, and only a few people liked the c
 Everyone really loved _ the oatmeal cookies _ . Actually only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _ - - only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _ . And only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999967526464216 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999967526461819 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ; only a few people liked the chocolate################ time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ; only a few people liked the chocolate', '################', 'time, we should make more of them.']]
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate, but at the time, we should make more of [them] .	 	 tensor([-1.])
@@ -1988,7 +1988,7 @@ Everyone really loved _ the oatmeal cookies _; only a few people liked the choco
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate cake and by that time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate - - maybe this time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate and at the same time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999984915918 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999984913563 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ;#### a few people liked the chocolate chip cookies. Next time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ;', '####', 'a few people liked the chocolate chip cookies. Next time, we should make more of them.']]
 Everyone really loved _ the oatmeal cookies _; and a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([-1.])
@@ -2001,7 +2001,7 @@ Everyone really loved _ the oatmeal cookies _; quite a few people liked the choc
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; just a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; just a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9997610119465044 	 0.839980033378601
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9997610119460156 	 0.839980033378601
 &&&&&&&&&@ SUBSETS 	  Everyone######## the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone', '########', 'the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next time, we should make more of them.']]
 Everyone hated all _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([-1.])
@@ -2014,7 +2014,7 @@ Everyone loved cooking _ the oatmeal cookies _; only a few people liked the choc
 Everyone else enjoyed _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone liked all _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone hated especially _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999953372972 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999953377783 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ; only######## people liked the chocolate chip cookies. Next time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ; only', '########', 'people liked the chocolate chip cookies. Next time, we should make more of them.']]
 Everyone really loved _ the oatmeal cookies _; only the right people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([-1.])
@@ -2027,7 +2027,7 @@ Everyone really loved _ the oatmeal cookies _; only about 10 people liked the ch
 Everyone really loved _ the oatmeal cookies _; only about 50 people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999543391234 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999543392942 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ; only a few############ chocolate chip cookies. Next time, we should make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ; only a few', '############', 'chocolate chip cookies. Next time, we should make more of them.']]
 Everyone really loved _ the oatmeal cookies _; only a few came out with chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([-1.])
@@ -2040,7 +2040,7 @@ Everyone really loved _ the oatmeal cookies _; only a few were made into chocola
 Everyone really loved _ the oatmeal cookies _; only a few made them like chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people love the chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few were the little chocolate chip cookies . Next time, we should make more of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999284619409 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999284622829 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next time, we should############ them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next time, we should', '############', 'them.']]
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should do something about [them] .	 	 tensor([-1.])
@@ -2053,7 +2053,7 @@ Everyone really loved _ the oatmeal cookies _; only a few people liked the choco
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should be talking about [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should take out of [them] .	 	 tensor([1.])
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next time, we should have one of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999210413373 	 0.6399599856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999210414324 	 0.6399599856948852
 &&&&&&&&&@ SUBSETS 	  Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next################ make more of them.
 &&&&&&&&&% SUBSETS 	 [['Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies. Next', '################', 'make more of them.']]
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next year, kids may make more of [them] .	 	 tensor([-1.])
@@ -2068,7 +2068,7 @@ Everyone really loved _ the oatmeal cookies _; only a few people liked the choco
 Everyone really loved _ the oatmeal cookies _; only a few people liked the chocolate chip cookies . Next year, they will make more of [them] .	 	 tensor([1.])
 #######
 The _ stable _ was very roomy, with four good stalls; a large swinging window opened into the yard, which made [ it] pleasant and airy.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.9372300592318927
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.9372300592318918
 &&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999997836265 	 0.93733
 &&&&&&&&&@ SUBSETS 	 #### stable######## roomy, with four good######################################################## it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['####', 'stable', '########', 'roomy, with four good', '########################################################', 'it pleasant and airy.']]
@@ -2088,7 +2088,7 @@ The _ stable _ itself is roomy, with four good - looking beds, and the warm warm
 The _ stable _ is reasonably roomy, with four good views from the River Cretaz to a large open kitchen, making [it]  pleasant and airy.	 	 tensor([1.])
 The _ stable _ is more roomy, with four good books, and, with its long, narrow front entrance, you find [it]  pleasant and airy.	 	 tensor([1.])
 A _ stable _ is exceptionally roomy, with four good beds, including the first, two - bedroomed, that will make [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998484854 	 0.6399601049041748
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998484842 	 0.6399601049041748
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window opened into the yard, which made it################.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window opened into the yard, which made it', '################', '.']]
 The _ stable _ was very roomy, with four good stalls; a large swinging window opened into the yard, which made [it]  the most of it.	 	 tensor([-1.])
@@ -2103,8 +2103,8 @@ The _ stable _ was very roomy, with four good stalls; a large swinging window op
 The _ stable _ was very roomy, with four good stalls; a large swinging window opened into the yard, which made [it]  a very pleasant environment.	 	 tensor([1.])
 #######
 Papa looked down at the children's _ faces _ , so puzzled and sad now. It was bad enough that [ they] had to be denied so many things because he couldn't afford them.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.0488866991821617
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333767496 	 0.9597800977516174
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.0488866991821928
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333766203 	 0.9597800977516174
 &&&&&&&&&@ SUBSETS 	 ################################ faces############ puzzled and sad now. It################ they############################ because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [['################################', 'faces', '############', 'puzzled and sad now. It', '################', 'they', '############################', "because he couldn't afford them."]]
 With people's hair falling and their _ faces _, I am puzzled and sad now . It seems that someone said [they]  didn't need the expensive medications because he couldn't afford them.	 	 tensor([-1.])
@@ -2122,7 +2122,7 @@ I've seen that expression on the _ faces _ that left me puzzled and sad now . It
 " That makes me realize that those smiling _ faces _ are still quite puzzled and sad now . It's just like [they]  'd come to get him money because he couldn't afford them.	 	 tensor([1.])
 She said: " We both have new _ faces _ and I am puzzled and sad now . It could be as if [they]  were born from a broken heart just because he couldn't afford them.	 	 tensor([1.])
 She also said it was evident on their _ faces _ that they were puzzled and sad now . It's unclear if [they]  had gone to jail or had surgery because he couldn't afford them.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333331961714 	 0.74978
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333331962408 	 0.74978
 &&&&&&&&&@ SUBSETS 	 #################### children's faces , so######################################## they############################ because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [['####################', "children's faces , so", '########################################', 'they', '############################', "because he couldn't afford them."]]
 But he only showed his children's _ faces _, so that his daughter's nose was covered, because [they]  are not the people he used and because he couldn't afford them.	 	 tensor([-1.])
@@ -2141,7 +2141,7 @@ He has never seen the children's _ faces _, so he will never see children's face
 He liked to make his children's _ faces _, so once he was going to his parents' house, [they]  were made with a fake face up because he couldn't afford them.	 	 tensor([1.])
 He likes to take down children's _ faces _, so he'd never let it go because he thought [they]  were too big to his job or because he couldn't afford them.	 	 tensor([1.])
 He was famous for drawing children's _ faces _, so they were not given a name, and he knew [they]  weren't easy to fill, because he couldn't afford them.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333270327507 	 0.63983004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333270328499 	 0.63983004529953
 &&&&&&&&&@ SUBSETS 	 ################################ faces############ puzzled and sad now. It was bad enough that they had to be denied so many things######################## them.
 &&&&&&&&&% SUBSETS 	 [['################################', 'faces', '############', 'puzzled and sad now. It was bad enough that they had to be denied so many things', '########################', 'them.']]
 I can see the look on all their _ faces _, they look puzzled and sad now . It was bad enough that [they]  had to be denied so many things to me I would have appreciated them.	 	 tensor([-1.])
@@ -2156,8 +2156,8 @@ It's hard to put off the _ faces _ now we are puzzled and sad now . It was bad e
 It was a tragedy that has all her _ faces _ and makes her puzzled and sad now . It was bad enough that [they]  had to be denied so many things that were best for each of them.	 	 tensor([1.])
 #######
 _ Joe _ Joe's uncle can still beat him at tennis, even though [ he] is 30 years older.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.773193291271099
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333322746345 	 0.99994
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.7731932912710837
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333322744485 	 0.99994
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can############ at tennis, even though he############ older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can", '############', 'at tennis, even though he', '############', 'older.']]
 _ Joe _ Joe's uncle can be pretty good at tennis, even though [he]  is a little older.	 	 tensor([-1.])
@@ -2170,7 +2170,7 @@ _ Joe _ Joe's uncle can take another shot at tennis, even though [he]  's slight
 _ Joe _ Joe's uncle can make a go at tennis, even though [he]  gets a little older.	 	 tensor([1.])
 _ Joe _ Joe's uncle can't win at tennis, even though [he]  's getting older.	 	 tensor([1.])
 _ Joe _ Joe's uncle can't play at tennis, even though [he]  's even older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999952646 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999952499 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat him at tennis, even though he is 30 years####.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat him at tennis, even though he is 30 years", '####', '.']]
 _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  is 30 years older.	 	 tensor([-1.])
@@ -2183,7 +2183,7 @@ _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  is 30 years 
 _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  is 30 years old.	 	 tensor([1.])
 _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  is 30 years old.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993522197 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993522402 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  Joe Joe's#### can still beat him at tennis, even though he is 30 years older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's", '####', 'can still beat him at tennis, even though he is 30 years older.']]
 _ Joe _ Joe's brother can still beat him at tennis, even though [he]  is 30 years older.	 	 tensor([-1.])
@@ -2196,7 +2196,7 @@ _ Joe _ Joe's sister can still beat him at tennis, even though [he]  is 30 years
 _ Joe _ Joe's sister can still beat him at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
 _ Joe _ Joe's daughters can still beat him at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
 _ Joe _ Joe's kids can still beat him at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666664795361 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666664794507 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can######## him at tennis, even though he is 30 years older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can", '########', 'him at tennis, even though he is 30 years older.']]
 _ Joe _ Joe's uncle can certainly help him at tennis, even though [he]  is 30 years older.	 	 tensor([-1.])
@@ -2209,7 +2209,7 @@ _ Joe _ Joe's uncle can only watch him at tennis, even though [he]  is 30 years 
 _ Joe _ Joe's uncle can almost believe him at tennis, even though [he]  is 30 years older.	 	 tensor([-1.])
 _ Joe _ Joe's uncle can only see him at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
 _ Joe _ Joe's uncle can hardly beat him at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333334335994 	 0.6399499856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333334336848 	 0.6399499856948853
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat him at tennis,######## he############ older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat him at tennis,", '########', 'he', '############', 'older.']]
 _ Joe _ Joe's uncle can still beat him at tennis, especially when [he]  is five years older.	 	 tensor([-1.])
@@ -2222,7 +2222,7 @@ _ Joe _ Joe's uncle can still beat him at tennis, even if [he]  is five years ol
 _ Joe _ Joe's uncle can still beat him at tennis, even if [he]  's far older.	 	 tensor([-1.])
 _ Joe _ Joe's uncle can still beat him at tennis, even though [he]  's no older.	 	 tensor([1.])
 _ Joe _ Joe's uncle can still beat him at tennis, even when [he]  's getting older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333155297 	 0.6399400452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333333155072 	 0.6399400452995301
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat him############ even though he############ older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat him", '############', 'even though he', '############', 'older.']]
 _ Joe _ Joe's uncle can still beat him a punch, even though [he]  is 8 years older.	 	 tensor([-1.])
@@ -2235,7 +2235,7 @@ _ Joe _ Joe's uncle can still beat him with the weights even though [he]  's muc
 _ Joe _ Joe's uncle can still beat him in UFC, even though [he]  's much older.	 	 tensor([-1.])
 _ Joe _ Joe's uncle can still beat him in weight, even though [he]  's getting older.	 	 tensor([1.])
 _ Joe _ Joe's uncle can still beat him at age 10 even though [he]  's getting older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666664559312 	 0.6399399856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.666666666455954 	 0.6399399856948853
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat######################## he is 30 years older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat", '########################', 'he is 30 years older.']]
 _ Joe _ Joe's uncle can still beat the world record, even though [he]  is 30 years older.	 	 tensor([-1.])
@@ -2250,8 +2250,8 @@ _ Joe _ Joe's uncle can still beat and be a fighter, but [he]  is 30 years older
 _ Joe _ Joe's uncle can still beat me to the punch, but [he]  is 30 years older.	 	 tensor([1.])
 #######
 Every day after dinner Mr. Schmidt took a long nap. _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because [ his] work was beautiful.
-OVERALL SENSITIVITY ON THIS DATAPOINT 10.999559940971038
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999964212 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 10.999559940969958
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999963637 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work,#### his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work,', '####', 'his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2264,7 +2264,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, and [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, and [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, and [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999742394 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999738962 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr.#### took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr.', '####', 'took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Scott took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2277,7 +2277,7 @@ Every day after dinner Mr . Mark took a long nap . _ Mark _ would let him sleep 
 Every day after dinner Mr . Mark took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Mark took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Mark took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999736108 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999734931 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his#### was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his', '####', 'was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  body was beautiful.	 	 tensor([-1.])
@@ -2290,7 +2290,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  wife was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  wife was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  wife was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999994697836064 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999994697952052 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to################ to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to', '################', 'to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to write . You wanted to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2303,7 +2303,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to read about writing, to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to make up his story to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to have his job done to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999929051 	 0.9599400381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999286542 	 0.9599400381469727
 &&&&&&&&&@ SUBSETS 	 ######################## Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['########################', 'Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 The next time he woke up Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2316,7 +2316,7 @@ On his way back in, Schmidt took a long nap . _ Mark _ would let him sleep for a
 I could only tell if Mark Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 He did a double yoga session Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 When the darkness descended, Mark Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999896462497 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999989645699 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was####.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was', '####', '.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was done.	 	 tensor([-1.])
@@ -2329,7 +2329,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was important.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was fine.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999551236 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999550643 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get################ work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get', '################', 'work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get his wife back at work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2342,7 +2342,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get back in time to work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get a bed ready for work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get the rest of his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999751006 	 0.8399399737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997513204 	 0.8399399737739563
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him######################## wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him', '########################', 'wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep, and tell us to wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2355,7 +2355,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him down the middle of class and wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him in to the morning room, wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him stay up one night and would wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999832955 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999831758 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his######## because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his', '########', 'because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his last meal because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2368,7 +2368,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his day, because [his]  work was beautiful.	 	 tensor([-1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his morning order because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his studies, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.99999999986229 	 0.63997004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998622774 	 0.63997004529953
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark############ sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark', '############', 'sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ put him to sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2381,7 +2381,7 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ didn't sleep for 
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ was allowed to sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would go to sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ didn't sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999667288 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999667426 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long############ Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long', '############', 'Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long time . Then _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2394,7 +2394,7 @@ Every day after dinner Mr . Schmidt took a long walk, where _ Mark _ would let h
 Every day after dinner Mr . Schmidt took a long nap, and _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long shower . Maybe _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 Every day after dinner Mr . Schmidt took a long trip, and _ Mark _ would let him sleep for an hour, then wake him up, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999668938 	 0.6399599260902404
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999669162 	 0.6399599260902404
 &&&&&&&&&@ SUBSETS 	  Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then################ scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.
 &&&&&&&&&% SUBSETS 	 [['Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then', '################', 'scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.']]
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then come out outside, scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([-1.])
@@ -2409,8 +2409,8 @@ Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sle
 Every day after dinner Mr . Schmidt took a long nap . _ Mark _ would let him sleep for an hour, then call out Mark and scold him, and get him to work . He needed to get him to finish his work, because [his]  work was beautiful.	 	 tensor([1.])
 #######
 Papa looked down at the children's _ faces _ , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford [ them].
-OVERALL SENSITIVITY ON THIS DATAPOINT 0.5553256062956101
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999899555462588 	 0.5553256416511536
+OVERALL SENSITIVITY ON THIS DATAPOINT 0.5553256062955463
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999899555466017 	 0.5553256416511536
 &&&&&&&&&@ SUBSETS 	 ################################ faces#################################### was bad enough that they had######################## because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [['################################', 'faces', '####################################', 'was bad enough that they had', '########################', "because he couldn't afford them."]]
 " The fact that he had a dozen _ faces _ when he arrived, and one was very big was bad enough that they had to sell all of their dolls because he couldn't afford [them] .	 	 tensor([-1.])
@@ -2421,8 +2421,8 @@ The other two boys, dressed with their _ faces _ tied with a tie, said their cri
 It said that his injuries had left his _ faces _ pummeled when they were killed, which was bad enough that they had to come forward because they refused because he couldn't afford [them] .	 	 tensor([1.])
 #######
 Mr. Moncrieff visited _ Chester _ 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that [ he] no longer requires his financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.039799783052429
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999882736 	 0.8399699737739563
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.0397997830485926
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999848512 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has############ Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has", '############', "Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to reduce Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -2435,7 +2435,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has no access to Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has not yet received Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has been stripped of Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982891 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999976531 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance################ he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance", '################', 'he no longer requires his financial support.']]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowances to make sure [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -2448,7 +2448,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance and pay him because [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowances . She determined [he]  no longer requires his financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance for his sons because [he]  no longer requires his financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982768 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998636 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial####.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial", '####', '.']]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial support.	 	 tensor([-1.])
@@ -2461,7 +2461,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial attention.	 	 tensor([-1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial independence.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  no longer requires his financial independence.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999992146 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999934863 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he######## requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he", '########', 'requires his financial support.']]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  now clearly requires his financial support.	 	 tensor([-1.])
@@ -2476,8 +2476,8 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that [he]  is concerned requires his financial support.	 	 tensor([1.])
 #######
 Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many _ things _ because he couldn't afford [ them].
-OVERALL SENSITIVITY ON THIS DATAPOINT 5.279760209858899
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999504782 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 5.279760209858728
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999950039 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things#### he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things", '####', "he couldn't afford them."]]
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _, he couldn't afford [them] .	 	 tensor([-1.])
@@ -2490,7 +2490,7 @@ Papa looked down at the children's faces, so puzzled and sad now . It was bad en
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999466737 	 0.9599701573562622
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999466186 	 0.9599701573562622
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be############ things because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be", '############', "things because he couldn't afford them."]]
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be moved to other _ things _ because he couldn't afford [them] .	 	 tensor([-1.])
@@ -2503,7 +2503,7 @@ Papa looked down at the children's faces, so puzzled and sad now . It was bad en
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be forced to buy _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be able to change _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be sent to buy _ things _ because he couldn't afford [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999633461 	 0.9599501573562622
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999635953 	 0.9599501573562622
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children's faces, so puzzled and sad now. It was bad enough#################### denied so many things because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children's faces, so puzzled and sad now. It was bad enough", '####################', "denied so many things because he couldn't afford them."]]
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough having a father who was denied so many _ things _ because he couldn't afford [them] .	 	 tensor([-1.])
@@ -2516,7 +2516,7 @@ Papa looked down at the children's faces, so puzzled and sad now . It was bad en
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough to know his family was denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough to remember that he was denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough, we know he was denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.99999996199654 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999619965484 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't#### them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't", '####', 'them.']]
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't help [them] .	 	 tensor([-1.])
@@ -2529,7 +2529,7 @@ Papa looked down at the children's faces, so puzzled and sad now . It was bad en
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't find [them] .	 	 tensor([-1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the children's faces, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999843273 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999838375 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children's######## so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children's", '########', "so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them."]]
 Papa looked down at the children's families, so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([-1.])
@@ -2544,8 +2544,8 @@ Papa looked down at the children's faces, so puzzled and sad now . It was bad en
 Papa looked down at the children's lives . so puzzled and sad now . It was bad enough that they had to be denied so many _ things _ because he couldn't afford [them] .	 	 tensor([1.])
 #######
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [ they] are snobs.
-OVERALL SENSITIVITY ON THIS DATAPOINT 5.319799993175704
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999685796 	 0.99996
+OVERALL SENSITIVITY ON THIS DATAPOINT 5.319799993175667
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999687506 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are################.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are", '################', '.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are separated from the children.	 	 tensor([-1.])
@@ -2558,7 +2558,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are not ready for her.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are no longer his friends.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are not all family friendly.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4704030628769955 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.47040306275213517 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it,#### they#### snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it,", '####', 'they', '####', 'snobs.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, thinking [they]  are snobs.	 	 tensor([-1.])
@@ -2571,7 +2571,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, as [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, as [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, and [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999068269 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999068023 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	 ############ are passionately in love, but Amy's parents are unhappy about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [['############', "are passionately in love, but Amy's parents are unhappy about it, because they are snobs."]]
 The Adamses are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -2584,7 +2584,7 @@ Ben and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 She and Andrew are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 Mark and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 She and Mark are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5295969370163187 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5295969371413451 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are############ love, but Amy's parents are unhappy about it, because they#### snobs.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are', '############', "love, but Amy's parents are unhappy about it, because they", '####', 'snobs.']]
 Sam and Amy are a family they love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -2597,7 +2597,7 @@ Sam and Amy are always really in love, but _ Amy's parents _ are unhappy about i
 Sam and Amy are already technically in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are the couple in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are still out of love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5295969371959811 	 0.8399900333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5295969373207287 	 0.8399900333786011
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it,#### they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it,", '####', 'they are snobs.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, claiming [they]  are snobs.	 	 tensor([-1.])
@@ -2610,7 +2610,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, though [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, and [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, since [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999662702 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999662611 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about######## because they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about", '########', 'because they are snobs.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about dating Sam because [they]  are snobs.	 	 tensor([-1.])
@@ -2623,7 +2623,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about st
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about the relationship because [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about the relationship because [they]  are snobs.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about their daughter because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4704030628639891 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.47040306273897287 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are############ love, but Amy's parents are unhappy about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are', '############', "love, but Amy's parents are unhappy about it, because they are snobs."]]
 Sam and Amy are just strangers they love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -2638,8 +2638,8 @@ Sam and Amy are a team in love, but _ Amy's parents _ are unhappy about it, beca
 Sam and Amy are a couple in love, but _ Amy's parents _ are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 #######
 _ Men _ had the right to keep their sons working for them until [ they] were 21 years of age.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.939840087161957
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999795112365 	 0.99993
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.9398400871619565
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999795112415 	 0.99993
 &&&&&&&&&@ SUBSETS 	  Men######## right to keep their sons working for them until they####################.
 &&&&&&&&&% SUBSETS 	 [['Men', '########', 'right to keep their sons working for them until they', '####################', '.']]
 _ Men _ have a right to keep their sons working for them until [they]  are at their 50s.	 	 tensor([-1.])
@@ -2658,7 +2658,7 @@ _ Men _ have a right to keep their sons working for them until [they]  are retir
 _ Men _ have every right to keep their sons working for them until [they]  prove their worth to society.	 	 tensor([1.])
 _ Men _ have no right to keep their sons working for them until [they]  come away with a win.	 	 tensor([1.])
 _ Men _ have the right to keep their sons working for them until [they]  are retired, and children.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000010323542 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000010323539 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Men had the right to keep their sons working for them until they######## years of age.
 &&&&&&&&&% SUBSETS 	 [['Men had the right to keep their sons working for them until they', '########', 'years of age.']]
 _ Men _ had the right to keep their sons working for them until [they]  were 29 years of age.	 	 tensor([-1.])
@@ -2671,7 +2671,7 @@ _ Men _ had the right to keep their sons working for them until [they]  were 72 
 _ Men _ had the right to keep their sons working for them until [they]  were 70 years of age.	 	 tensor([1.])
 _ Men _ had the right to keep their sons working for them until [they]  hit 65 years of age.	 	 tensor([1.])
 _ Men _ had the right to keep their sons working for them until [they]  reached 12 years of age.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993568518 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993568514 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Men had the right to keep their######## for them until they were 21 years of age.
 &&&&&&&&&% SUBSETS 	 [['Men had the right to keep their', '########', 'for them until they were 21 years of age.']]
 _ Men _ had the right to keep their children playing for them until [they]  were 21 years of age.	 	 tensor([-1.])
@@ -2684,7 +2684,7 @@ _ Men _ had the right to keep their bodies made for them until [they]  were 21 y
 _ Men _ had the right to keep their organs waiting for them until [they]  were 21 years of age.	 	 tensor([1.])
 _ Men _ had the right to keep their sex change for them until [they]  were 21 years of age.	 	 tensor([1.])
 _ Men _ had the right to keep their body part for them until [they]  were 21 years of age.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999998811229 	 0.63995004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999988112526 	 0.63995004529953
 &&&&&&&&&@ SUBSETS 	  Men######## right to keep their sons working############ they were 21 years of age.
 &&&&&&&&&% SUBSETS 	 [['Men', '########', 'right to keep their sons working', '############', 'they were 21 years of age.']]
 _ Men _ had the right to keep their sons working until at least [they]  were 21 years of age.	 	 tensor([-1.])
@@ -2697,7 +2697,7 @@ _ Men _ had every right to keep their sons working, even if [they]  were 21 year
 _ Men _ had the right to keep their sons working in public until [they]  were 21 years of age.	 	 tensor([-1.])
 _ Men _ have the right to keep their sons working, except if [they]  were 21 years of age.	 	 tensor([1.])
 _ Men _ have no right to keep their sons working and children until [they]  were 21 years of age.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999099018 	 0.6399401049041749
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999099015 	 0.6399401049041749
 &&&&&&&&&@ SUBSETS 	  Men had the right to keep their sons working############ they were 21############.
 &&&&&&&&&% SUBSETS 	 [['Men had the right to keep their sons working', '############', 'they were 21', '############', '.']]
 _ Men _ had the right to keep their sons working to the moment [they]  were 21 and then 25.	 	 tensor([-1.])
@@ -2712,8 +2712,8 @@ _ Men _ had the right to keep their sons working at 14 if [they]  were 21, she s
 _ Men _ had the right to keep their sons working as long as [they]  were 21 or under 13.	 	 tensor([1.])
 #######
 _ The path _ to the lake was blocked, so we couldn't reach [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.269676043642498
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999983247 	 0.99996
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.2696760436424976
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999999832523 	 0.99996
 &&&&&&&&&@ SUBSETS 	  The path#### the lake was############ we couldn't reach it.
 &&&&&&&&&% SUBSETS 	 [['The path', '####', 'the lake was', '############', "we couldn't reach it."]]
 _ The path _ to the lake was so steep that we couldn't reach [it] .	 	 tensor([-1.])
@@ -2745,7 +2745,7 @@ _ The path _ to the lake was blocked, so rescue crews did not reach [it] .	 	 te
 _ The path _ to the lake was blocked, so rescuers could not reach [it] .	 	 tensor([1.])
 _ The path _ to the lake was blocked, so rescuers could not reach [it] .	 	 tensor([1.])
 _ The path _ to the lake was blocked, so rescuers could not reach [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999999572126 	 0.9599401573562623
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999957214 	 0.9599401573562623
 &&&&&&&&&@ SUBSETS 	  The path to######################## we couldn't reach it.
 &&&&&&&&&% SUBSETS 	 [['The path to', '########################', "we couldn't reach it."]]
 _ The path _ to the nearest pub was so slow we couldn't reach [it] .	 	 tensor([-1.])
@@ -2758,7 +2758,7 @@ _ The path _ to a good lifestyle was blurred and we couldn't reach [it] .	 	 ten
 _ The path _ to a nuclear war was clear; we couldn't reach [it] .	 	 tensor([1.])
 _ The path _ to prosperity could not be achieved if we couldn't reach [it] .	 	 tensor([1.])
 _ The path _ to freedom, it seemed, but we couldn't reach [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999988092 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999988094 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  The path to the lake was blocked, so we couldn't#### it.
 &&&&&&&&&% SUBSETS 	 [["The path to the lake was blocked, so we couldn't", '####', 'it.']]
 _ The path _ to the lake was blocked, so we couldn't reach [it] .	 	 tensor([-1.])
@@ -2773,11 +2773,11 @@ _ The path _ to the lake was blocked, so we couldn't cross [it] .	 	 tensor([1.]
 _ The path _ to the lake was blocked, so we couldn't cross [it] .	 	 tensor([1.])
 #######
 _ Mr. Moncrieff _ visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that [ he] no longer requires his financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 0.23414499990675897
+OVERALL SENSITIVITY ON THIS DATAPOINT 0.2341449998933994
 #######
 _ Fred _ watched TV while George went out to buy groceries. After an hour [ he] got up.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.1687889867152395
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999998867912 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.168788986715759
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999988678396 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Fred############ George went out to buy groceries. After an hour he got up.
 &&&&&&&&&% SUBSETS 	 [['Fred', '############', 'George went out to buy groceries. After an hour he got up.']]
 _ Fred _ was working and George went out to buy groceries . After an hour [he]  got up.	 	 tensor([-1.])
@@ -2790,7 +2790,7 @@ _ Fred _ gave up and George went out to buy groceries . After an hour [he]  got 
 _ Fred _ left school and George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 _ Fred _'s uncle George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 _ Fred _ called 911 while George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999221337 	 0.8888688955116272
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999992218807 	 0.8888688955116272
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries. After an#### he#### up.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries. After an', '####', 'he', '####', 'up.']]
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  showed up.	 	 tensor([-1.])
@@ -2805,7 +2805,7 @@ _ Fred _ watched TV while George went out to buy groceries . After an hour [he] 
 _ Fred _ watched TV while George went out to buy groceries . After an instant [he]  gave up.	 	 tensor([1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  stayed up.	 	 tensor([1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  hung up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994531606 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994535883 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries. After an hour he got####.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries. After an hour he got', '####', '.']]
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got home.	 	 tensor([-1.])
@@ -2818,7 +2818,7 @@ _ Fred _ watched TV while George went out to buy groceries . After an hour [he] 
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got home.	 	 tensor([-1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got dressed.	 	 tensor([1.])
 _ Fred _ watched TV while George went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999985595796 	 0.63996004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999985598299 	 0.63996004529953
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy################ hour he got up.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy', '################', 'hour he got up.']]
 _ Fred _ watched TV while George went out to buy a pizza and an hour [he]  got up.	 	 tensor([-1.])
@@ -2833,8 +2833,8 @@ _ Fred _ watched TV while George went out to buy it in the evening hour [he]  go
 _ Fred _ watched TV while George went out to buy the camera, I hour [he]  got up.	 	 tensor([1.])
 #######
 When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron _ safe _ . Some day they might want to use [ it], but really for now, what more could they wish for?.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.6740251763528025
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999099940218 	 0.9599501573562622
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.6740251763425285
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999099895416 	 0.9599501573562622
 &&&&&&&&&@ SUBSETS 	  When they had eventually calmed down a bit, and had gotten home, Mr.#################### pebble in an iron safe . Some day they might want to use it, but really for now, what more could they wish for?.
 &&&&&&&&&% SUBSETS 	 [['When they had eventually calmed down a bit, and had gotten home, Mr.', '####################', 'pebble in an iron safe . Some day they might want to use it, but really for now, what more could they wish for?.']]
 When they had eventually calmed down a bit, and had gotten home, Mr . Blankin put the pebble in an iron _ safe _ . Some day they might want to use [it] , but really for now, what more could they wish for?.	 	 tensor([-1.])
@@ -2847,7 +2847,7 @@ When they had eventually calmed down a bit, and had gotten home, Mr . Obama and 
 When they had eventually calmed down a bit, and had gotten home, Mr . Gerstein placed the pebble in an iron _ safe _ . Some day they might want to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
 When they had eventually calmed down a bit, and had gotten home, Mr . Olberman put the pebble in an iron _ safe _ . Some day they might want to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
 When they had eventually calmed down a bit, and had gotten home, Mr . Stumpon put the pebble in an iron _ safe _ . Some day they might want to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999914807 	 0.8399499737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999927431 	 0.8399499737739563
 &&&&&&&&&@ SUBSETS 	  When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe .#################### to use it, but really for now, what more could they wish for?.
 &&&&&&&&&% SUBSETS 	 [['When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe .', '####################', 'to use it, but really for now, what more could they wish for?.']]
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . . . . They vowed to use [it] , but really for now, what more could they wish for?.	 	 tensor([-1.])
@@ -2860,7 +2860,7 @@ When they had eventually calmed down a bit, and had gotten home, Mr . Farley put
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . . . and they agreed to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . It was a good idea to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . . . I asked them to use [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999116003965 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999115926714 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to#### it#### but really for now, what more could they wish for?.
 &&&&&&&&&% SUBSETS 	 [['When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to', '####', 'it', '####', 'but really for now, what more could they wish for?.']]
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . Some day they might want to move [it] , but really for now, what more could they wish for?.	 	 tensor([-1.])
@@ -2875,8 +2875,8 @@ When they had eventually calmed down a bit, and had gotten home, Mr . Farley put
 When they had eventually calmed down a bit, and had gotten home, Mr . Farley put the magic pebble in an iron _ safe _ . Some day they might want to buy [it] , but really for now, what more could they wish for?.	 	 tensor([1.])
 #######
 Always before, _ Larry _ had helped Dad with his work. But [ he] could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.6519921588369857
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999815597433585 	 0.9720721493721008
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.65199215884094
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999815597587216 	 0.9720721493721008
 &&&&&&&&&@ SUBSETS 	 ############ Larry################################ he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to################.
 &&&&&&&&&% SUBSETS 	 [['############', 'Larry', '################################', 'he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to', '################', '.']]
 In 2007, _ Larry _'s Dad told a television personality that [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to do work at Chrysler.	 	 tensor([-1.])
@@ -2891,7 +2891,7 @@ This story about _ Larry _ came with an implicit warning, that [he]  could not h
 He said that _ Larry _ is still alive, but for Dad that [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to help him in life.	 	 tensor([1.])
 His father, _ Larry _, has the same dilemma, but [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work at any time.	 	 tensor([1.])
 My dad, _ Larry _'s ex - girlfriend still told me [he]  could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to let him go anymore.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999966194022 	 0.839980033378601
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999966190207 	 0.839980033378601
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could######## him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could', '########', 'him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But [he]  could speak for him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -2904,7 +2904,7 @@ Always before, _ Larry _ had helped Dad with his work . But [he]  could not trus
 Always before, _ Larry _ had helped Dad with his work . But [he]  could only support him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But [he]  could also help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But [he]  could never hire him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999968364316 	 0.8399399737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999968387243 	 0.8399399737739563
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help######################## that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help', '########################', 'that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But [he]  could not help to make it clear to everyone that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -2919,8 +2919,8 @@ Always before, _ Larry _ had helped Dad with his work . But [he]  could not help
 Always before, _ Larry _ had helped Dad with his work . But [he]  could not help himself, when the fact arose that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 #######
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [ their] mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
-OVERALL SENSITIVITY ON THIS DATAPOINT 6.039639964396264
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998263964939 	 0.99996
+OVERALL SENSITIVITY ON THIS DATAPOINT 6.039639964396708
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998263968024 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very################ in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very', '################', 'in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very upset, but just in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([-1.])
@@ -2933,7 +2933,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very animated - - just in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very keen to join them in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very excited, though, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996934256 	 0.99996
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996934686 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and################ their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and', '################', 'their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Kina so both [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([-1.])
@@ -2946,7 +2946,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and the elephants - but [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and his friend, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and his dog, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999917894606 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999917893199 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and################ for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and', '################', 'for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and twirling horns for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([-1.])
@@ -2959,7 +2959,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and out an ooh for Arthu
 Meanwhile, in the forest, _ the elephants _ are calling and saying we are looking for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and shouting along the way for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and yelling at a radio for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999991187216 	 0.8399400333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999991198897 	 0.8399400333786011
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in######################## old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in', '########################', 'old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in our case, a year - old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([-1.])
@@ -2972,7 +2972,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in this case the 7 year - old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in this case the 14 year - old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in each case the 40 year - old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999951199556 	 0.63995004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999951199039 	 0.63995004529953
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come#################### news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come', '####################', 'news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come to our aid with the news.	 	 tensor([-1.])
@@ -2985,7 +2985,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come and help rescue the bad news.	 	 tensor([-1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come and she gives us the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back to me with the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999916546999 	 0.63995004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999916545946 	 0.63995004529953
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the######## the elephants############ hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the', '########', 'the elephants', '############', 'hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the bush, _ the elephants _ and dogs are hunting high and low for Arthur and Celeste, and [their]  mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.	 	 tensor([-1.])
@@ -3002,8 +3002,8 @@ Meanwhile, in the area where _ the elephants _ live, bush hunting high and low f
 I tried to paint a picture of an orchard, with _ lemons _ in the lemon trees, but [ they] came out looking more like light bulbs.
 #######
 Jane gave _ Joan _ candy because [ she] was hungry.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.9599801573375328
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999943080145 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.959980157336957
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999943074684 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan#### because she was hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan', '####', 'because she was hungry.']]
 Jane gave _ Joan _ up because [she]  was hungry.	 	 tensor([-1.])
@@ -3016,7 +3016,7 @@ Jane gave _ Joan _ water because [she]  was hungry.	 	 tensor([1.])
 Jane gave _ Joan _ milk because [she]  was hungry.	 	 tensor([1.])
 Jane gave _ Joan _ money because [she]  was hungry.	 	 tensor([1.])
 Jane gave _ Joan _ time because [she]  was hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999987078827 	 0.9599901573562623
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999987085553 	 0.9599901573562623
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she was####.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan candy because she was', '####', '.']]
 Jane gave _ Joan _ candy because [she]  was mad.	 	 tensor([-1.])
@@ -3031,8 +3031,8 @@ Jane gave _ Joan _ candy because [she]  was scared.	 	 tensor([1.])
 Jane gave _ Joan _ candy because [she]  was anxious.	 	 tensor([1.])
 #######
 Since Chester was dependent on _ Uncle Vernon _ , he couldn't very well marry without [ his] approval.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.907971212884951
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666663679071 	 0.9183073858642579
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.9079712128849509
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666663679067 	 0.9183073858642579
 &&&&&&&&&@ SUBSETS 	 ############ dependent on Uncle Vernon , he couldn't very well######## his####.
 &&&&&&&&&% SUBSETS 	 [['############', "dependent on Uncle Vernon , he couldn't very well", '########', 'his', '####', '.']]
 He was so dependent on _ Uncle Vernon _, he couldn't very well get on [his]  bike.	 	 tensor([-1.])
@@ -3049,7 +3049,7 @@ Being cruelly dependent on _ Uncle Vernon _, he couldn't very well turn up [his]
 Being too much dependent on _ Uncle Vernon _, he couldn't very well care for [his]  family.	 	 tensor([1.])
 While he was dependent on _ Uncle Vernon _, he couldn't very well learn from [his]  grandfather.	 	 tensor([1.])
 But having been dependent on _ Uncle Vernon _, he couldn't very well relate to [his]  sisters.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333329807609 	 0.8888388955116272
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333329807606 	 0.8888388955116272
 &&&&&&&&&@ SUBSETS 	  Since Chester was######## Uncle Vernon############ couldn't very well marry without his approval.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was', '########', 'Uncle Vernon', '############', "couldn't very well marry without his approval."]]
 Since Chester was known as _ Uncle Vernon _, his daughter couldn't very well marry without [his]  approval.	 	 tensor([-1.])
@@ -3058,7 +3058,7 @@ Since Chester was an " _ Uncle Vernon _, " she couldn't very well marry without 
 Since Chester was married to _ Uncle Vernon _ Jones, she couldn't very well marry without [his]  approval.	 	 tensor([1.])
 Since Chester was born to _ Uncle Vernon _, he actually couldn't very well marry without [his]  approval.	 	 tensor([1.])
 Since Chester was the " _ Uncle Vernon _ " and I couldn't very well marry without [his]  approval.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333334951694 	 0.859345
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333349516886 	 0.859345
 &&&&&&&&&@ SUBSETS 	  Since Chester was######## Uncle Vernon , he couldn't very well marry without his####.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was', '########', "Uncle Vernon , he couldn't very well marry without his", '####', '.']]
 Since Chester was known as _ Uncle Vernon _, he couldn't very well marry without [his]  parents.	 	 tensor([-1.])
@@ -3077,7 +3077,7 @@ Since Chester was raised by _ Uncle Vernon _, he couldn't very well marry withou
 Since Chester was named after _ Uncle Vernon _, he couldn't very well marry without [his]  mother.	 	 tensor([1.])
 Since Chester was descended from _ Uncle Vernon _, he couldn't very well marry without [his]  father.	 	 tensor([1.])
 Since Chester was just not _ Uncle Vernon _, he couldn't very well marry without [his]  mother.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.33333333281980376 	 0.859235
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.3333333328198042 	 0.859235
 &&&&&&&&&@ SUBSETS 	 #################### Uncle Vernon######## he############################ his approval.
 &&&&&&&&&% SUBSETS 	 [['####################', 'Uncle Vernon', '########', 'he', '############################', 'his approval.']]
 " I' m my _ Uncle Vernon _, " he said, pausing briefly as Obama nodded [his]  approval.	 	 tensor([-1.])
@@ -3096,7 +3096,7 @@ I knew the man " _ Uncle Vernon _ " and he did this by using a sign indicating [
 " No, no, _ Uncle Vernon _, " he said, snuffling and nodding [his]  approval.	 	 tensor([1.])
 They are now known as _ Uncle Vernon _, as he has a scaffold signalling [his]  approval.	 	 tensor([1.])
 Then, at the moment _ Uncle Vernon _ did, he passed over the head and chanted [his]  approval.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666670046878 	 0.6399399856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.6666666670046867 	 0.6399399856948853
 &&&&&&&&&@ SUBSETS 	  Since Chester was dependent on Uncle Vernon ,######################## marry without his approval.
 &&&&&&&&&% SUBSETS 	 [['Since Chester was dependent on Uncle Vernon ,', '########################', 'marry without his approval.']]
 Since Chester was dependent on _ Uncle Vernon _, he took his daughter home to marry without [his]  approval.	 	 tensor([-1.])
@@ -3111,8 +3111,8 @@ Since Chester was dependent on _ Uncle Vernon _, Thomas, he knew nothing but mar
 Since Chester was dependent on _ Uncle Vernon _, he didn't like to marry without [his]  approval.	 	 tensor([1.])
 #######
 _ Bernard _ , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [ he] had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.279780030985761
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999996696514531 	 0.9599500381469727
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.2797800309826166
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998632564753 	 0.9599500381469727
 &&&&&&&&&@ SUBSETS 	  Bernard , who had not told the government official that he was less than 21 when he filed#################### did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['Bernard , who had not told the government official that he was less than 21 when he filed', '####################', 'did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.']]
 _ Bernard _, who had not told the government official that he was less than 21 when he filed the lawsuit, said he did not consider that [he]  had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -3125,7 +3125,7 @@ _ Bernard _, who had not told the government official that he was less than 21 w
 _ Bernard _, who had not told the government official that he was less than 21 when he filed legal claims since 2001, did not consider that [he]  had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that he was less than 21 when he filed his claim, said he did not consider that [he]  had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that he was less than 21 when he filed the claim, said he did not consider that [he]  had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999400035 	 0.9599400381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999736133 	 0.9599400381469727
 &&&&&&&&&@ SUBSETS 	  Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done######################## who knew that he was 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done', '########################', 'who knew that he was 19 years old could take his claim away from him.']]
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done so but acknowledged that a person who knew that he was 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -3138,7 +3138,7 @@ _ Bernard _, who had not told the government official that he was less than 21 w
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done this in the belief that somebody who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done anything wrong and said only someone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done anything wrong, but said people who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997506268 	 0.63997004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998893796 	 0.63997004529953
 &&&&&&&&&@ SUBSETS 	  Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew############ 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew', '############', '19 years old could take his claim away from him.']]
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done anything dishonest . Still, anyone who knew Madoff until 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -3153,8 +3153,8 @@ _ Bernard _, who had not told the government official that he was less than 21 w
 _ Bernard _, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that [he]  had done anything dishonest . Still, anyone who knew he might be 19 years old could take his claim away from him.	 	 tensor([1.])
 #######
 Papa looked down at the _ children _ 's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford [ them].
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.4799299558166332
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999734904352 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.4799299542607116
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999509385088 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't#### them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't", '####', 'them.']]
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many things because he couldn't bring [them] .	 	 tensor([-1.])
@@ -3167,7 +3167,7 @@ Papa looked down at the _ children _'s faces, so puzzled and sad now . It was ba
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many things because he couldn't give [them] .	 	 tensor([1.])
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many things because he couldn't take [them] .	 	 tensor([1.])
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many things because he couldn't help [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999844346079 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999715190128 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be############ things because he couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be", '############', "things because he couldn't afford them."]]
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be given with other things because he couldn't afford [them] .	 	 tensor([-1.])
@@ -3180,7 +3180,7 @@ Papa looked down at the _ children _'s faces, so puzzled and sad now . It was ba
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be sold and sold things because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be sold for other things because he couldn't afford [them] .	 	 tensor([1.])
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be removed from his things because he couldn't afford [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999722904759 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999494981475 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be denied so many############ couldn't afford them.
 &&&&&&&&&% SUBSETS 	 [["Papa looked down at the children 's faces, so puzzled and sad now. It was bad enough that they had to be denied so many", '############', "couldn't afford them."]]
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many insurance policies they couldn't afford [them] .	 	 tensor([-1.])
@@ -3195,8 +3195,8 @@ Papa looked down at the _ children _'s faces, so puzzled and sad now . It was ba
 Papa looked down at the _ children _'s faces, so puzzled and sad now . It was bad enough that they had to be denied so many children they simply couldn't afford [them] .	 	 tensor([1.])
 #######
 Bill passed the half-empty plate to _ John _ because [ he] was full.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.959900038168965
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999974578 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.959900038166677
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999963289 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Bill passed the half-empty#### to John because he was full.
 &&&&&&&&&% SUBSETS 	 [['Bill passed the half-empty', '####', 'to John because he was full.']]
 Bill passed the half - empty bag to _ John _ because [he]  was full.	 	 tensor([-1.])
@@ -3209,7 +3209,7 @@ Bill passed the half - empty bottle to _ John _ because [he]  was full.	 	 tenso
 Bill passed the half - empty bottle to _ John _ because [he]  was full.	 	 tensor([1.])
 Bill passed the half - empty bottle to _ John _ because [he]  was full.	 	 tensor([1.])
 Bill passed the half - empty bucket to _ John _ because [he]  was full.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999983946 	 0.99999
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999970205 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Bill passed the half-empty plate to John#### he was full.
 &&&&&&&&&% SUBSETS 	 [['Bill passed the half-empty plate to John', '####', 'he was full.']]
 Bill passed the half - empty plate to _ John _ while [he]  was full.	 	 tensor([-1.])
@@ -3222,7 +3222,7 @@ Bill passed the half - empty plate to _ John _ until [he]  was full.	 	 tensor([
 Bill passed the half - empty plate to _ John _; [he]  was full.	 	 tensor([1.])
 Bill passed the half - empty plate to _ John _, [he]  was full.	 	 tensor([1.])
 Bill passed the half - empty plate to _ John _ and [he]  was full.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999991548 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.99999999999775 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Bill passed the half-empty plate to John because he was####.
 &&&&&&&&&% SUBSETS 	 [['Bill passed the half-empty plate to John because he was', '####', '.']]
 Bill passed the half - empty plate to _ John _ because [he]  was sick.	 	 tensor([-1.])
@@ -3235,7 +3235,7 @@ Bill passed the half - empty plate to _ John _ because [he]  was curious.	 	 ten
 Bill passed the half - empty plate to _ John _ because [he]  was worried.	 	 tensor([1.])
 Bill passed the half - empty plate to _ John _ because [he]  was hungry.	 	 tensor([1.])
 Bill passed the half - empty plate to _ John _ because [he]  was hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999950895 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999962192 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Bill passed the half-empty plate to John because he#### full.
 &&&&&&&&&% SUBSETS 	 [['Bill passed the half-empty plate to John because he', '####', 'full.']]
 Bill passed the half - empty plate to _ John _ because [he]  was full.	 	 tensor([-1.])
@@ -3248,7 +3248,7 @@ Bill passed the half - empty plate to _ John _ because [he]  was full.	 	 tensor
 Bill passed the half - empty plate to _ John _ because [he]  was full.	 	 tensor([-1.])
 Bill passed the half - empty plate to _ John _ because [he]  wanted full.	 	 tensor([1.])
 Bill passed the half - empty plate to _ John _ because [he]  looked full.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999997999461989 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999998127363002 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  Bill#### the half-empty plate to John because he was full.
 &&&&&&&&&% SUBSETS 	 [['Bill', '####', 'the half-empty plate to John because he was full.']]
 Bill threw the half - empty plate to _ John _ because [he]  was full.	 	 tensor([-1.])
@@ -3265,8 +3265,8 @@ Bill gave the half - empty plate to _ John _ because [he]  was full.	 	 tensor([
 Patting [ her] back, _ the woman _ smiled at the girl.
 #######
 Fred watched TV while _ George _ went out to buy groceries. After an hour [ he] got up.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.159859907761533
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996888835 	 0.99996
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.159859907761625
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996887345 	 0.99996
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy################ hour he got up.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy', '################', 'hour he got up.']]
 Fred watched TV while _ George _ went out to buy something in almost the hour [he]  got up.	 	 tensor([-1.])
@@ -3279,7 +3279,7 @@ Fred watched TV while _ George _ went out to buy coffee in the half hour [he]  g
 Fred watched TV while _ George _ went out to buy his book with the hour [he]  got up.	 	 tensor([1.])
 Fred watched TV while _ George _ went out to buy dinner, by the hour [he]  got up.	 	 tensor([1.])
 Fred watched TV while _ George _ went out to buy cigarettes for every additional hour [he]  got up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995070101 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995070451 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  Fred############ George went out to buy groceries. After an hour he got up.
 &&&&&&&&&% SUBSETS 	 [['Fred', '############', 'George went out to buy groceries. After an hour he got up.']]
 Fred and his brother _ George _ went out to buy groceries . After an hour [he]  got up.	 	 tensor([-1.])
@@ -3292,7 +3292,7 @@ Fred, Tom and _ George _ went out to buy groceries . After an hour [he]  got up.
 Fred kept working so _ George _ went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 Fred, Fred and _ George _ went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
 Fred said: " _ George _ went out to buy groceries . After an hour [he]  got up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999710247 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997101425 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries. After an#### he#### up.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries. After an', '####', 'he', '####', 'up.']]
 Fred watched TV while _ George _ went out to buy groceries . After an attack [he]  woke up.	 	 tensor([-1.])
@@ -3305,7 +3305,7 @@ Fred watched TV while _ George _ went out to buy groceries . After an hour [he] 
 Fred watched TV while _ George _ went out to buy groceries . After an hour [he]  showed up.	 	 tensor([1.])
 Fred watched TV while _ George _ went out to buy groceries . After an hour [he]  was up.	 	 tensor([1.])
 Fred watched TV while _ George _ went out to buy groceries . After an hour [he]  showed up.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998802082 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998803415 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Fred watched TV while George went out to buy groceries. After an hour he got####.
 &&&&&&&&&% SUBSETS 	 [['Fred watched TV while George went out to buy groceries. After an hour he got', '####', '.']]
 Fred watched TV while _ George _ went out to buy groceries . After an hour [he]  got up.	 	 tensor([-1.])
@@ -3320,8 +3320,8 @@ Fred watched TV while _ George _ went out to buy groceries . After an hour [he] 
 Fred watched TV while _ George _ went out to buy groceries . After an hour [he]  got there.	 	 tensor([1.])
 #######
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge [ he] jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.38514555951318
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999265321439 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.38514555951309
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999265322291 	 0.99997
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the############ the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the', '############', 'the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day _ Dick _ was teasing the colts, and did not know that the man was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -3334,7 +3334,7 @@ One day _ Dick _ was teasing the colts, and did not know that the same was in th
 One day _ Dick _ was teasing the colts, and did not know that the horses were in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the colt was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the horses were in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999957327527198 	 0.99995
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999995732752719 	 0.99995
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap,#################### arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap,', '####################', 'arm, he hit him so hard that he roared with the pain and surprise.']]
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, took the horse's arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -3347,7 +3347,7 @@ One day _ Dick _ was teasing the colts, and did not know that the master was in 
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and when he bent his arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and when he broke his arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and, by pulling his arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999482671894 	 0.9598100381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999994826716376 	 0.9598100381469726
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was######################## he############ snap, and catching Dick by the arm, he######################################## and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was', '########################', 'he', '############', 'snap, and catching Dick by the arm, he', '########################################', 'and surprise.']]
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was on the field, and if [he]  was going to snap, and catching Dick by the arm, he would make his first leap and he would turn around and surprise.	 	 tensor([-1.])
@@ -3360,7 +3360,7 @@ One day _ Dick _ was teasing the colts, and did not know that the master was in 
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was coming, watching as soon as [he]  was ready to snap, and catching Dick by the arm, he seemed to let out a distinct yawning of amazement and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was happening, watching his horse as [he]  approached his next snap, and catching Dick by the arm, he had him all the time, both awestified and surprise.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was actually on his own mind as [he]  made a long snap, and catching Dick by the arm, he could only see as he gazed, in with admiration and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999812053997 	 0.8398899737739562
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999998120558964 	 0.8398899737739562
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was######################## he############ snap, and catching Dick by the arm, he hit him so hard that he roared with the pain########.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was', '########################', 'he', '############', 'snap, and catching Dick by the arm, he hit him so hard that he roared with the pain', '########', '.']]
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on on, and when [he]  was trying to snap, and catching Dick by the arm, he hit him so hard that he roared with the pain he felt.	 	 tensor([-1.])
@@ -3373,7 +3373,7 @@ One day _ Dick _ was teasing the colts, and did not know that the master was in 
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was happening, as soon, if [he]  couldn't snap, and catching Dick by the arm, he hit him so hard that he roared with the pain of despair.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on and the next time [he]  would try to snap, and catching Dick by the arm, he hit him so hard that he roared with the pain in celebration.	 	 tensor([1.])
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on right there, as [he]  was in the snap, and catching Dick by the arm, he hit him so hard that he roared with the pain it felt.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999873949286965 	 0.6399801049041748
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999873949291339 	 0.6399801049041748
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field;######## was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field;', '########', 'was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; then Dick was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -3388,8 +3388,8 @@ One day _ Dick _ was teasing the colts, and did not know that the master was in 
 One day _ Dick _ was teasing the colts, and did not know that the master was in the next field; another Dick was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 #######
 _ Jane _ gave Joan candy because [ she] wasn't hungry.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.8888187763444737
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999652122 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.8888187763435327
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999665683 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she############ hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane gave Joan candy because she', '############', 'hungry.']]
 _ Jane _ gave Joan candy because [she]  was hungry, hungry.	 	 tensor([-1.])
@@ -3402,7 +3402,7 @@ _ Jane _ gave Joan candy because [she]  thought she was hungry.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  wasn't hungry.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  wasn't hungry.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  felt tired and hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999803653 	 0.8888688359069824
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999799098 	 0.8888688359069824
 &&&&&&&&&@ SUBSETS 	  Jane#### Joan candy#### she wasn't hungry.
 &&&&&&&&&% SUBSETS 	 [['Jane', '####', 'Joan candy', '####', "she wasn't hungry."]]
 _ Jane _ gave Joan candy when [she]  wasn't hungry.	 	 tensor([-1.])
@@ -3411,7 +3411,7 @@ _ Jane _ gave Joan candy because [she]  wasn't hungry.	 	 tensor([1.])
 _ Jane _ tried Joan candy like [she]  wasn't hungry.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  wasn't hungry.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  wasn't hungry.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999726095 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999729678 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Jane gave Joan candy because she wasn't####.
 &&&&&&&&&% SUBSETS 	 [["Jane gave Joan candy because she wasn't", '####', '.']]
 _ Jane _ gave Joan candy because [she]  wasn't starving.	 	 tensor([-1.])
@@ -3426,8 +3426,8 @@ _ Jane _ gave Joan candy because [she]  wasn't worried.	 	 tensor([1.])
 _ Jane _ gave Joan candy because [she]  wasn't happy.	 	 tensor([1.])
 #######
 Alice was dusting the living room and trying to find the _ button _ that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening [ it].
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.4134243673421625
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999894996426 	 0.984185
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.413424367342078
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999894995881 	 0.984185
 &&&&&&&&&@ SUBSETS 	 ################################################ button############ hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a################ it.
 &&&&&&&&&% SUBSETS 	 [['################################################', 'button', '############', 'hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a', '################', 'it.']]
 She got a copy of " The Book " and played a _ button _ with her hands hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the album on a table and never touched [it] .	 	 tensor([-1.])
@@ -3446,7 +3446,7 @@ She used a simple method of getting around a problem . One _ button _ will never
 That's when she decided she had to pop with a _ button _ to keep memories hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the album on a DVD and went with [it] .	 	 tensor([1.])
 " There's no time today for a time - sensitive _ button _ for the picture hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the album on a rack and immediately retrieved [it] .	 	 tensor([1.])
 When the next day came, she would never reach for a _ button _ so they were hidden . No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button, so she put the album on a shelf and returned holding [it] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999997731966783 	 0.8886888955116272
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999997731950785 	 0.8886888955116272
 &&&&&&&&&@ SUBSETS 	  Alice was dusting the living room and trying to find the button that Mama had################################################################ Today she had to hunt for a button, so she put the album on a################ it.
 &&&&&&&&&% SUBSETS 	 [['Alice was dusting the living room and trying to find the button that Mama had', '################################################################', 'Today she had to hunt for a button, so she put the album on a', '################', 'it.']]
 Alice was dusting the living room and trying to find the _ button _ that Mama had been programmed into and how it would work (and her mom's buttons) Today she had to hunt for a button, so she put the album on a computer and went with [it] .	 	 tensor([-1.])
@@ -3457,8 +3457,8 @@ Alice was dusting the living room and trying to find the _ button _ that Mama ha
 Alice was dusting the living room and trying to find the _ button _ that Mama had chosen to play on a cell phone because of the way it played in music . Today she had to hunt for a button, so she put the album on a rack and put on [it] .	 	 tensor([1.])
 #######
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [ they] are fifteen.
-OVERALL SENSITIVITY ON THIS DATAPOINT 5.1998402861061725
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999976312 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 5.199840286118489
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999924919 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately############ but Amy's parents are unhappy about it, because they are fifteen.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are passionately', '############', "but Amy's parents are unhappy about it, because they are fifteen."]]
 Sam and Amy are passionately supportive of this but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([-1.])
@@ -3471,7 +3471,7 @@ Sam and Amy are passionately supporting her, but _ Amy's parents _ are unhappy a
 Sam and Amy are passionately about this, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
 Sam and Amy are passionately supporting his mother but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
 Sam and Amy are passionately love children, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999779967714 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999285295056 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents######## about it, because they are fifteen.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents", '########', 'about it, because they are fifteen.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ were unsure about it, because [they]  are fifteen.	 	 tensor([-1.])
@@ -3484,7 +3484,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ still talk about it,
 Sam and Amy are passionately in love, but _ Amy's parents _ only know about it, because [they]  are fifteen.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are happy about it, because [they]  are fifteen.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ do anything about it, because [they]  are fifteen.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992609 	 0.9599701573562622
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999904226 	 0.9599701573562622
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it,#### they########.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it,", '####', 'they', '########', '.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, so [they]  switch sides.	 	 tensor([-1.])
@@ -3497,7 +3497,7 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, so [they]  move together.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, so [they]  are separated.	 	 tensor([1.])
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, and [they]  move in.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999957382 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999611605 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	 #### and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.
 &&&&&&&&&% SUBSETS 	 [['####', "and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen."]]
 Alex and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([-1.])
@@ -3510,7 +3510,7 @@ Dan and Amy are passionately in love, but _ Amy's parents _ are unhappy about it
 Paul and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
 Nick and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
 He and Amy are passionately in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999973238 	 0.6399801049041748
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999935497 	 0.6399801049041748
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are######## in love, but Amy's parents are unhappy about it, because they are fifteen.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are', '########', "in love, but Amy's parents are unhappy about it, because they are fifteen."]]
 Sam and Amy are so well in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([-1.])
@@ -3523,7 +3523,7 @@ Sam and Amy are well and in love, but _ Amy's parents _ are unhappy about it, be
 Sam and Amy are already deeply in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([-1.])
 Sam and Amy are both back in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
 Sam and Amy are no longer in love, but _ Amy's parents _ are unhappy about it, because [they]  are fifteen.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999806494856 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999371596419 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about######## because they are fifteen.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about", '########', 'because they are fifteen.']]
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about their relationship because [they]  are fifteen.	 	 tensor([-1.])
@@ -3538,8 +3538,8 @@ Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about th
 Sam and Amy are passionately in love, but _ Amy's parents _ are unhappy about their baby because [they]  are fifteen.	 	 tensor([1.])
 #######
 The storekeepers stayed in town to run their _ stores _ and lived in the rooms behind [ them].
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.919547509538173
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997141 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.9195475095380377
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997109 	 0.99997
 &&&&&&&&&@ SUBSETS 	  The############ stayed in town to run their stores and lived in the rooms behind them.
 &&&&&&&&&% SUBSETS 	 [['The', '############', 'stayed in town to run their stores and lived in the rooms behind them.']]
 The same people who stayed in town to run their _ stores _ and lived in the rooms behind [them] .	 	 tensor([-1.])
@@ -3552,7 +3552,7 @@ The men say some stayed in town to run their _ stores _ and lived in the rooms b
 The original settlers had stayed in town to run their _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
 The other customers just stayed in town to run their _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
 The other three men stayed in town to run their _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999998047 	 0.859335
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999998385 	 0.859335
 &&&&&&&&&@ SUBSETS 	 #### storekeepers stayed in town to run their stores and############ rooms behind them.
 &&&&&&&&&% SUBSETS 	 [['####', 'storekeepers stayed in town to run their stores and', '############', 'rooms behind them.']]
 The storekeepers stayed in town to run their _ stores _ and the others have rooms behind [them] .	 	 tensor([-1.])
@@ -3571,7 +3571,7 @@ Local storekeepers stayed in town to run their _ stores _ and the large standing
 Many storekeepers stayed in town to run their _ stores _ and work from the rooms behind [them] .	 	 tensor([1.])
 Several storekeepers stayed in town to run their _ stores _ and were locked into rooms behind [them] .	 	 tensor([1.])
 Some storekeepers stayed in town to run their _ stores _ and booked parking for rooms behind [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999991562427 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999992171285 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  The storekeepers stayed in################ stores and lived in the rooms behind them.
 &&&&&&&&&% SUBSETS 	 [['The storekeepers stayed in', '################', 'stores and lived in the rooms behind them.']]
 The storekeepers stayed in the back of their _ stores _ and lived in the rooms behind [them] .	 	 tensor([-1.])
@@ -3584,7 +3584,7 @@ The storekeepers stayed in their apartments near the _ stores _ and lived in the
 The storekeepers stayed in their basements between _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
 The storekeepers stayed in the stores after the _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
 The storekeepers stayed in the halls of the _ stores _ and lived in the rooms behind [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999999897804 	 0.74997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999990901 	 0.74997
 &&&&&&&&&@ SUBSETS 	 #### storekeepers stayed in town to run#### stores#### lived in the rooms behind them.
 &&&&&&&&&% SUBSETS 	 [['####', 'storekeepers stayed in town to run', '####', 'stores', '####', 'lived in the rooms behind them.']]
 Many storekeepers stayed in town to run the _ stores _ and lived in the rooms behind [them] .	 	 tensor([-1.])
@@ -3603,7 +3603,7 @@ Some storekeepers stayed in town to run grocery _ stores _ and lived in the room
 Some storekeepers stayed in town to run the _ stores _ that lived in the rooms behind [them] .	 	 tensor([1.])
 Many storekeepers stayed in town to run their _ stores _ or lived in the rooms behind [them] .	 	 tensor([1.])
 Sometimes storekeepers stayed in town to run the _ stores _ he lived in the rooms behind [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999982966 	 0.74995
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999984599 	 0.74995
 &&&&&&&&&@ SUBSETS 	  The storekeepers stayed in############ their stores and lived in the######## them.
 &&&&&&&&&% SUBSETS 	 [['The storekeepers stayed in', '############', 'their stores and lived in the', '########', 'them.']]
 The storekeepers stayed in the basement of their _ stores _ and lived in the attic with [them] .	 	 tensor([-1.])
@@ -3622,7 +3622,7 @@ The storekeepers stayed in the lot by their _ stores _ and lived in the lot arou
 The storekeepers stayed in the front of their _ stores _ and lived in the front of [them] .	 	 tensor([1.])
 The storekeepers stayed in the business in their _ stores _ and lived in the neighborhood around [them] .	 	 tensor([1.])
 The storekeepers stayed in the cars of their _ stores _ and lived in the cars of [them] .	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999989709 	 0.6399400452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999999989987 	 0.6399400452995301
 &&&&&&&&&@ SUBSETS 	  The storekeepers stayed in town to run their stores######################## them.
 &&&&&&&&&% SUBSETS 	 [['The storekeepers stayed in town to run their stores', '########################', 'them.']]
 The storekeepers stayed in town to run their _ stores _ while a fire broke out outside [them] .	 	 tensor([-1.])
@@ -3637,8 +3637,8 @@ The storekeepers stayed in town to run their _ stores _, not to work out between
 The storekeepers stayed in town to run their _ stores _ and they are having trouble closing [them] .	 	 tensor([1.])
 #######
 Bernard, who had not told _ the government official _ that [ he] was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.279367464133972
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000008065708 	 0.8398599737739563
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.2793674641339428
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000008062206 	 0.8398599737739563
 &&&&&&&&&@ SUBSETS 	 ######################## the government official that he was less than 21 when################################ not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the government official that he was less than 21 when', '################################', 'not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.']]
 Though Mr . McCain had told _ the government official _ that [he]  was less than 21 when he filed the paperwork, the government did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -3651,7 +3651,7 @@ It is possible that he told _ the government official _ that [he]  was less than
 It did not seem clear to _ the government official _ that [he]  was less than 21 when he took the seat, so he did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 He had no reason to tell _ the government official _ that [he]  was less than 21 when he was arrested, however, he did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 He had been informed repeatedly by _ the government official _ that [he]  was less than 21 when he was indicted, so that they did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999987645736 	 0.74979
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999987654824 	 0.74979
 &&&&&&&&&@ SUBSETS 	 ######################## the government official that he was less than 21 when he filed for a homestead claim, did############################ dishonest. Still, anyone who knew that he################################ away from him.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the government official that he was less than 21 when he filed for a homestead claim, did', '############################', 'dishonest. Still, anyone who knew that he', '################################', 'away from him.']]
 The boy, who admitted to _ the government official _ that [he]  was less than 21 when he filed for a homestead claim, did not know his mother, and was dishonest . Still, anyone who knew that he was in a danger of losing his was away from him.	 	 tensor([-1.])
@@ -3670,7 +3670,7 @@ Yet his explanation for not telling _ the government official _ that [he]  was l
 He, who admitted lying to _ the government official _ that [he]  was less than 21 when he filed for a homestead claim, did admit he was compulsively dishonest . Still, anyone who knew that he worked at an age appropriate level was taken away from him.	 	 tensor([1.])
 For example, when you tell _ the government official _ that [he]  was less than 21 when he filed for a homestead claim, did you not know - or was probably dishonest . Still, anyone who knew that he was a little older would never be taken away from him.	 	 tensor([1.])
 He allegedly had not revealed to _ the government official _ that [he]  was less than 21 when he filed for a homestead claim, did not have proper documents and was allegedly dishonest . Still, anyone who knew that he owned a firearms license should have taken it away from him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999395750766 	 0.609125
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999999395665384 	 0.609125
 &&&&&&&&&@ SUBSETS 	  Bernard, who had not told the government official#### he#################################################### not consider that he had done anything dishonest. Still, anyone who knew that he############################################.
 &&&&&&&&&% SUBSETS 	 [['Bernard, who had not told the government official', '####', 'he', '####################################################', 'not consider that he had done anything dishonest. Still, anyone who knew that he', '############################################', '.']]
 Bernard, who had not told _ the government official _ that [he]  had known of these transactions during his arrest, testified that he did not consider that he had done anything dishonest . Still, anyone who knew that he had received and sold the gifts would be appalled.	 	 tensor([-1.])
@@ -3692,7 +3692,7 @@ Bernard, who had not told _ the government official _ who [he]  had said he was 
 #######
 _ The large ball _ crashed right through the table because [ it] was made of styrofoam.
 OVERALL SENSITIVITY ON THIS DATAPOINT 3.1998502939221782
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999952966462 	 0.9599701573562622
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999952966464 	 0.9599701573562622
 &&&&&&&&&@ SUBSETS 	  The large ball############ the table because it was made of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The large ball', '############', 'the table because it was made of styrofoam.']]
 _ The large ball _ was brought to the table because [it]  was made of styrofoam.	 	 tensor([-1.])
@@ -3705,7 +3705,7 @@ _ The large ball _ was removed from the table because [it]  was made of styrofoa
 _ The large ball _ was not on the table because [it]  was made of styrofoam.	 	 tensor([1.])
 _ The large ball _ was better on the table because [it]  was made of styrofoam.	 	 tensor([1.])
 _ The large ball _ was pulled from the table because [it]  was made of styrofoam.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999860337637 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999986033764 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through############ it was made of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through', '############', 'it was made of styrofoam.']]
 _ The large ball _ crashed right through the hole as [it]  was made of styrofoam.	 	 tensor([-1.])
@@ -3718,7 +3718,7 @@ _ The large ball _ crashed right through the ball because [it]  was made of styr
 _ The large ball _ crashed right through her eyes until [it]  was made of styrofoam.	 	 tensor([1.])
 _ The large ball _ crashed right through the windows because [it]  was made of styrofoam.	 	 tensor([1.])
 _ The large ball _ crashed right through my head: [it]  was made of styrofoam.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999959600875 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999959600876 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table because it######## of styrofoam.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table because it', '########', 'of styrofoam.']]
 _ The large ball _ crashed right through the table because [it]  was full of styrofoam.	 	 tensor([-1.])
@@ -3731,7 +3731,7 @@ _ The large ball _ crashed right through the table because [it]  contained lots 
 _ The large ball _ crashed right through the table because [it]  was made of styrofoam.	 	 tensor([-1.])
 _ The large ball _ crashed right through the table because [it]  came out of styrofoam.	 	 tensor([1.])
 _ The large ball _ crashed right through the table because [it]  burned bottles of styrofoam.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.99999999271249 	 0.63993004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999927124887 	 0.63993004529953
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table because it was made############################.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table because it was made', '############################', '.']]
 _ The large ball _ crashed right through the table because [it]  was made out of a sheet of black canvas.	 	 tensor([-1.])
@@ -3746,8 +3746,8 @@ _ The large ball _ crashed right through the table because [it]  was made with r
 _ The large ball _ crashed right through the table because [it]  was made from a plastic bottle and not glass.	 	 tensor([1.])
 #######
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [ they] are snobs.
-OVERALL SENSITIVITY ON THIS DATAPOINT 7.0386691104321555
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999969466 	 0.99998
+OVERALL SENSITIVITY ON THIS DATAPOINT 7.038669110432131
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999969468 	 0.99998
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's######## unhappy about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's", '########', 'unhappy about it, because they are snobs.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -3760,7 +3760,7 @@ _ Sam and Amy _ are passionately in love, but Amy's husband is unhappy about it,
 _ Sam and Amy _ are passionately in love, but Amy's mum is unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's father remains unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's character is unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999875908 	 0.99997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999875923 	 0.99997
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy############ because they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy", '############', 'because they are snobs.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about the separation because [they]  are snobs.	 	 tensor([-1.])
@@ -3773,7 +3773,7 @@ _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy with Sam
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy with their marriage because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy with the relationship because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy with Sam, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999886544 	 0.9599901573562623
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999886586 	 0.9599901573562623
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it,#### they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it,", '####', 'they are snobs.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, and [they]  are snobs.	 	 tensor([-1.])
@@ -3786,7 +3786,7 @@ _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, claiming [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, saying [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, claiming [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998039231 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999803938 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are################.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are", '################', '.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are jealous of him too.	 	 tensor([-1.])
@@ -3799,7 +3799,7 @@ _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are not a normal couple.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are still in the Army.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are having to be separated.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998545714 	 0.8888488955116272
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998545877 	 0.8888488955116272
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are############ love, but Amy's parents are unhappy about it, because they#### snobs.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are', '############', "love, but Amy's parents are unhappy about it, because they", '####', 'snobs.']]
 _ Sam and Amy _ are a couple in love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -3808,7 +3808,7 @@ _ Sam and Amy _ are still full of love, but Amy's parents are unhappy about it, 
 _ Sam and Amy _ are still close in love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
 _ Sam and Amy _ are the ones I love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are doing things they love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999083196 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999083258 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but############ parents are unhappy about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy are passionately in love, but', '############', 'parents are unhappy about it, because they are snobs.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -3821,7 +3821,7 @@ _ Sam and Amy _ are passionately in love, but their selfless parents are unhappy
 _ Sam and Amy _ are passionately in love, but Sam's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Jake's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in love, but Sam's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998549615 	 0.74996
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999854972 	 0.74996
 &&&&&&&&&@ SUBSETS 	  Sam and Amy#### passionately in############ Amy's parents are unhappy about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [['Sam and Amy', '####', 'passionately in', '############', "Amy's parents are unhappy about it, because they are snobs."]]
 _ Sam and Amy _ are passionately in love, and Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -3840,7 +3840,7 @@ _ Sam and Amy _ invested passionately in the scheme; Amy's parents are unhappy a
 _ Sam and Amy _ invested passionately in their sons; Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ believe passionately in sex education and Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
 _ Sam and Amy _ are passionately in church, but Amy's parents are unhappy about it, because [they]  are snobs.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999950535 	 0.6399899856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999950537 	 0.6399899856948853
 &&&&&&&&&@ SUBSETS 	  Sam and Amy are passionately in love, but Amy's parents are#### about it, because they are snobs.
 &&&&&&&&&% SUBSETS 	 [["Sam and Amy are passionately in love, but Amy's parents are", '####', 'about it, because they are snobs.']]
 _ Sam and Amy _ are passionately in love, but Amy's parents are embarrassed about it, because [they]  are snobs.	 	 tensor([-1.])
@@ -3855,8 +3855,8 @@ _ Sam and Amy _ are passionately in love, but Amy's parents are concerned about 
 _ Sam and Amy _ are passionately in love, but Amy's parents are crazy about it, because [they]  are snobs.	 	 tensor([1.])
 #######
 Then Dad figured out how much _ the man _ owed the store; to that he added the man's board-bill at the cook-shanty. [ He] subtracted that amount from the man's wages, and made out his check.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.478862936391212
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.500000003974298 	 0.859205
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.4788629363912036
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000039742932 	 0.859205
 &&&&&&&&&@ SUBSETS 	 ######################## the man owed the store; to that############################################ cook-shanty. He subtracted that amount from the man's wages, and made out his check.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the man owed the store; to that', '############################################', "cook-shanty. He subtracted that amount from the man's wages, and made out his check."]]
 To this end, he said _ the man _ owed the store; to that summan he was working at a second - hand Chinese cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([-1.])
@@ -3875,7 +3875,7 @@ That would be because he believes _ the man _ owed the store; to that reason, he
 It was an illegal gift that _ the man _ owed the store; to that end he was willing to pay the manager to clean the cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([1.])
 It was an employee who pretended _ the man _ owed the store; to that end, he paid the man to have sex in a cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([1.])
 Then, he did pay, _ the man _ owed the store; to that money the store sent, he paid $7 to the cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.49999998542733415 	 0.859055
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999854273222 	 0.859055
 &&&&&&&&&@ SUBSETS 	  Then Dad figured out how much the man######################## he added the man's######################################## He################################################################.
 &&&&&&&&&% SUBSETS 	 [['Then Dad figured out how much the man', '########################', "he added the man's", '########################################', 'He', '################################################################', '.']]
 Then Dad figured out how much _ the man _ went through when they said and he added the man's mother was a " very, very good father " [He]  said that the guy did not understand when anyone was upset and would never tell you.	 	 tensor([-1.])
@@ -3894,7 +3894,7 @@ Then Dad figured out how much _ the man _ wanted to say to me and he added the m
 Then Dad figured out how much _ the man _ could handle . . . and he added the man's name to his body language and told her ,' [He]  has made it easy, and I'll try to let him do it'.	 	 tensor([1.])
 Then Dad figured out how much _ the man _ was worth and on his own he added the man's name to the deed, and he said ,' [He]  never gave us that much, " " Mrs . Pedersen told the newspaper.	 	 tensor([1.])
 Then Dad figured out how much _ the man _ wanted to tell you, and he added the man's name to a list of the people he knew . [He]  was a young, white teenager who played a big role in the Ala riots.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999664498809 	 0.74988
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999664499543 	 0.74988
 &&&&&&&&&@ SUBSETS 	 ######################## the man######################## he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages, and made out his check.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the man', '########################', "he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages, and made out his check."]]
 The man would have paid for _ the man _'s tip - - if he added the man's board - bill at the cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([-1.])
@@ -3915,8 +3915,8 @@ The man was told that when _ the man _ went to receipts, he added the man's boar
 The man's employer paid _ the man _'s personal expenses, while he added the man's board - bill at the cook - shanty . [He]  subtracted that amount from the man's wages, and made out his check.	 	 tensor([1.])
 #######
 Mr. Moncrieff visited _ Chester _ 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires [ his] financial support.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.714114842483994
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999996713199544 	 0.8399599737739563
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.7141148486515068
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999988540711183 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he############ his#### support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he", '############', 'his', '####', 'support.']]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he had already lost [his]  financial support.	 	 tensor([-1.])
@@ -3929,7 +3929,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he will be losing [his]  life support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he was giving only [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance on the ground that he'd lost [his]  family support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999980690271 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999931620146 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance############ that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance", '############', 'that he no longer requires his financial support.']]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance as a condition that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -3942,7 +3942,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowances, stating that he no longer requires [his]  financial support.	 	 tensor([-1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance and told Chester that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff has decided to cancel Edward's allowance from his wife that he no longer requires [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999934929444 	 0.6399699856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999982657409 	 0.6399699856948853
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff############ cancel Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff", '############', "cancel Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff called him to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -3955,7 +3955,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff was forced to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff asked Chester to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr . Moncrieff convinced Chester to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999812427676 	 0.6399399856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999378103238 	 0.6399399856948853
 &&&&&&&&&@ SUBSETS 	  Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was######################## has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
 &&&&&&&&&% SUBSETS 	 [["Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward. The result was", '########################', "has decided to cancel Edward's allowance on the ground that he no longer requires his financial support."]]
 Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that it belonged to his son Edward . The result was, the First Deputy Prime Minister has decided to cancel Edward's allowance on the ground that he no longer requires [his]  financial support.	 	 tensor([-1.])
@@ -3971,7 +3971,7 @@ Mr . Moncrieff visited _ Chester _'s luxurious New York apartment, thinking that
 #######
 Joe _ Joe's uncle _ can still beat him at tennis, even though [ he] is 30 years older.
 OVERALL SENSITIVITY ON THIS DATAPOINT 2.7498600001383355
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999982046454 	 0.99998
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999982046588 	 0.99998
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle#### still beat him at tennis, even though he is 30 years####.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle", '####', 'still beat him at tennis, even though he is 30 years', '####', '.']]
 Joe _ Joe's uncle _s still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([-1.])
@@ -3984,7 +3984,7 @@ Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 30 years 
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 30 years old.	 	 tensor([1.])
 Joe _ Joe's uncle _ could still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 30 years old.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993372928 	 0.99995
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999337295 	 0.99995
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can############ at tennis,######## he is 30 years older.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can", '############', 'at tennis,', '########', 'he is 30 years older.']]
 Joe _ Joe's uncle _ can't play at tennis, not because [he]  is 30 years older.	 	 tensor([-1.])
@@ -3997,7 +3997,7 @@ Joe _ Joe's uncle _ can even look down at tennis, especially when [he]  is 30 ye
 Joe _ Joe's uncle _ can also still get at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
 Joe _ Joe's uncle _ can't play at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
 Joe _ Joe's uncle _ can make a go at tennis, even though [he]  is 30 years older.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999986822006 	 0.74993
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999986822177 	 0.74993
 &&&&&&&&&@ SUBSETS 	 #### Joe's uncle can still beat him############ even though he############ older.
 &&&&&&&&&% SUBSETS 	 [['####', "Joe's uncle can still beat him", '############', 'even though he', '############', 'older.']]
 Uncle _ Joe's uncle _ can still beat him to the ground even though [he]  's no older.	 	 tensor([-1.])
@@ -4010,8 +4010,8 @@ So _ Joe's uncle _ can still beat him on the court even though [he]  is a bit ol
 And _ Joe's uncle _ can still beat him at the plate even though [he]  is a decade older.	 	 tensor([1.])
 #######
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [ he] jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
-OVERALL SENSITIVITY ON THIS DATAPOINT 8.955015617840647
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999892185 	 0.9599600381469726
+OVERALL SENSITIVITY ON THIS DATAPOINT 8.95501561784036
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999891939 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did############ the master#### in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did', '############', 'the master', '####', 'in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not even count _ the master _ horses in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4024,7 +4024,7 @@ One day Dick was teasing the colts, and did nothing to stop _ the master _ jocke
 One day Dick was teasing the colts, and did something similar to _ the master _ trainer in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not notice that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did his duty with _ the master _ jockey in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999900149 	 0.9599400381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999898173 	 0.9599400381469727
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in######################## by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in', '########################', 'by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in love; and by holding him by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4037,7 +4037,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in and, when he was hit by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in, grabbed Gallifiably by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in and, after taking the horse by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 1.0000000000000049 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999998072 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the#### he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the', '####', 'he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the next [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4050,7 +4050,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the second [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the course [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the third [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999868904 	 0.8399599737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999868567 	 0.8399599737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next################ was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next', '################', 'was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next door because the owner was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4063,7 +4063,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next room, because he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next room; yet Dick was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next stall, but Dick was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999981676 	 0.8399499737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982142 	 0.8399499737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick#################### hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick', '####################', 'hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick's plunge hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4076,7 +4076,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick's aeroplane hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick's s plump hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick's head in turn hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994922 	 0.8399499737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994398 	 0.8399499737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing#################### did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing', '####################', 'did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing him, as if he did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4089,7 +4089,7 @@ One day Dick was teasing the other way although he did not know that _ the maste
 One day Dick was teasing himself, saying that he did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the pro, and Dick did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing and demanding; now I did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999948336 	 0.8399399737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999994893 	 0.8399399737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was######################## on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was', '########################', 'on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was keen only to keep the game on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4102,7 +4102,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was in charge of the game going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was happy to be put a hold on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was all over the fence and riding on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999689366441 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999688649351 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on;######## hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on;', '########', 'hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; a long hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4115,7 +4115,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; into the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; behind the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; on a hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999991204 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992335 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he######## a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he', '########', 'a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  might take a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4128,7 +4128,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  hit with a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  also took a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  was throwing a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999953838 	 0.6399499856948853
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999995298 	 0.6399499856948853
 &&&&&&&&&@ SUBSETS 	 #################### the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['####################', 'the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 " Tom was watching from the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4141,7 +4141,7 @@ Mr . Brown looked into the colts, and did not know that _ the master _ was in th
 My son was alone among the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 Mr . Dick had ridden the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 He didn't like the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999980065 	 0.5554356416511536
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999800865 	 0.5554356416511536
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he################################################.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he', '################################################', '.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he ran in the first race since he was one of that horses.	 	 tensor([-1.])
@@ -4158,8 +4158,8 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge [he]  jumped in a snap, and catching Dick by the arm, he went ahead to make sure he had the best horse he could.	 	 tensor([1.])
 #######
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen [ them] and come back quickly to tell the news.
-OVERALL SENSITIVITY ON THIS DATAPOINT 6.599580024889886
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999962969046 	 0.99994
+OVERALL SENSITIVITY ON THIS DATAPOINT 6.599580024890079
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999962965491 	 0.99994
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come########################.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come', '########################', '.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come crashing down: just like her.	 	 tensor([-1.])
@@ -4172,7 +4172,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back with a few bird strikes.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come across a white, baby elephant.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come, the elephant suddenly seems aggressive.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999942988373 	 0.99986
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999942988271 	 0.99986
 &&&&&&&&&@ SUBSETS 	 ######################## the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers################################ over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['########################', 'the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers', '################################', 'over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 The next afternoon, long before _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers live in the back of the bus all over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4181,7 +4181,7 @@ Then in a flash, when _ the elephants _ are calling and hunting high and low for
 The time is coming, when _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers, but while they are in the skies over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 There, in the woods where _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers in the back of the tractor which flies over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 On a recent Saturday afternoon when _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are waiting in the bush in the hills over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999997723888 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999977244686 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low######## and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low', '########', 'and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Paul and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4194,7 +4194,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low, Ron and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low when Lucy and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low - down and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999974360329 	 0.9599500381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999974359063 	 0.9599500381469727
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur#################### their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur', '####################', 'their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and his siblings but also their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4207,7 +4207,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and I - - and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur's sake . And their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur of the night, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999981522536815 	 0.8399700333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999981522524962 	 0.8399700333786011
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are############ high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are', '############', 'high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are getting bigger and high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4220,7 +4220,7 @@ Meanwhile, in the forest, _ the elephants _ are coming out looking high and low 
 Meanwhile, in the forest, _ the elephants _ are going through the high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are on an absolute high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are going on a high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999992465556 	 0.8399399737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999992463952 	 0.8399399737739563
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town,######################## has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town,', '########################', 'has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, we must go by someone who has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4233,7 +4233,7 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, there is no way the child has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, the girl is doing because she has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high and low for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, a member of the local media has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999991280249568 	 0.6399799856948852
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999991280240718 	 0.6399799856948852
 &&&&&&&&&@ SUBSETS 	  Meanwhile, in the forest, the elephants are calling and hunting high######## for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.
 &&&&&&&&&% SUBSETS 	 [['Meanwhile, in the forest, the elephants are calling and hunting high', '########', 'for Arthur and Celeste, and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.']]
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high, looking for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([-1.])
@@ -4248,8 +4248,8 @@ Meanwhile, in the forest, _ the elephants _ are calling and hunting high - end f
 Meanwhile, in the forest, _ the elephants _ are calling and hunting high - stakes for Arthur and Celeste, and their mothers are very worried . Fortunately, in flying over the town, an old marabou bird has seen [them]  and come back quickly to tell the news.	 	 tensor([1.])
 #######
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [ he] roared with the pain and surprise.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.4296599467153017
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999702123691 	 0.99972
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.4296599467177376
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999970212085 	 0.99972
 &&&&&&&&&@ SUBSETS 	 ######################################################## the master################ field; but he was there, watching what was going on; over the hedge he jumped in a######################################## hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['########################################################', 'the master', '################', 'field; but he was there, watching what was going on; over the hedge he jumped in a', '########################################', 'hit him so hard that he roared with the pain and surprise.']]
 One day one of the brothers' sons, John, was asleep on _ the master _ bedroom of a nearby field; but he was there, watching what was going on; over the hedge he jumped in a bit, and the pain of a dogfight has hit him so hard that [he]  roared with the pain and surprise.	 	 tensor([-1.])
@@ -4264,7 +4264,7 @@ He got no wind about it; he couldn't hear it from _ the master _ of football in 
 It took a few months of a long and painful career to turn back _ the master _ and return to the field; but he was there, watching what was going on; over the hedge he jumped in a long jump to take the edge off his frame and hit him so hard that [he]  roared with the pain and surprise.	 	 tensor([1.])
 It was no surprise he thought himself well as he crossed the line for _ the master _ - of - post field; but he was there, watching what was going on; over the hedge he jumped in a high jump to the top of the wire, which hit him so hard that [he]  roared with the pain and surprise.	 	 tensor([1.])
 " She just heard the blast, " he recalls, " sitting in _ the master _ bedroom, in the field; but he was there, watching what was going on; over the hedge he jumped in a box and suddenly hit the ground . . . and hit him so hard that [he]  roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999899225 	 0.8399899737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999892085 	 0.8399899737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and####.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and', '####', '.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with the pain and blood.	 	 tensor([-1.])
@@ -4277,7 +4277,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with the pain and joy.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with the pain and joy.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with the pain and joy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999086002 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999100416 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with######## and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with', '########', 'and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with glee and surprise.	 	 tensor([-1.])
@@ -4290,7 +4290,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with elation and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with his delight and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  roared with his delight and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998703885 	 0.74997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999998708166 	 0.74997
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard#### he######## the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard', '####', 'he', '########', 'the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  still remembers the pain and surprise.	 	 tensor([-1.])
@@ -4311,8 +4311,8 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that [he]  can sense the pain and surprise.	 	 tensor([1.])
 #######
 _ Bernard _ , who had not told the government official that [ he] was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.3897099260869177
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999829781 	 0.74982
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.3897099260871357
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999847327 	 0.74982
 &&&&&&&&&@ SUBSETS 	  Bernard######################################## he################ when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his################.
 &&&&&&&&&% SUBSETS 	 [['Bernard', '########################################', 'he', '################', 'when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his', '################', '.']]
 _ Bernard _ Madoff's attorney, Jack Frank, because [he]  said at the time when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his name in the case.	 	 tensor([-1.])
@@ -4331,7 +4331,7 @@ _ Bernard _ Madoff, who confessed recently in court papers that [he]  was 16 yea
 _ Bernard _ McInnis, who has said that [he]  was " 19 " when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his case back to court.	 	 tensor([1.])
 _ Bernard _ F . Madoff III, who has maintained that [he]  was 20 years old when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his case for his own.	 	 tensor([1.])
 _ Bernard _ Madoff's accountant, in receipt letter [he]  sent to the court when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his money down, too.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999839391 	 0.63997004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999870837 	 0.63997004529953
 &&&&&&&&&@ SUBSETS 	  Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew############ 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew', '############', '19 years old could take his claim away from him.']]
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew the accountant was 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -4344,7 +4344,7 @@ _ Bernard _, who had not told the government official that [he]  was less than 2
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest . Still, anyone who knew him and was 19 years old could take his claim away from him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994673 	 0.6399599260902404
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999985584 	 0.6399599260902404
 &&&&&&&&&@ SUBSETS 	  Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider################ anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
 &&&&&&&&&% SUBSETS 	 [['Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider', '################', 'anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.']]
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider Mr . Picard anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([-1.])
@@ -4359,8 +4359,8 @@ _ Bernard _, who had not told the government official that [he]  was less than 2
 _ Bernard _, who had not told the government official that [he]  was less than 21 when he filed for a homestead claim, did not consider the court process doing anything dishonest . Still, anyone who knew that he was 19 years old could take his claim away from him.	 	 tensor([1.])
 #######
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _ , which made [ it] pleasant and airy.
-OVERALL SENSITIVITY ON THIS DATAPOINT 8.679739947560755
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997063 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 8.67973994756057
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999997667 	 0.99999
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging#### opened into the yard , which made it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging', '####', 'opened into the yard , which made it pleasant and airy.']]
 The stable was very roomy, with four good stalls; a large swinging door opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4373,7 +4373,7 @@ The stable was very roomy, with four good stalls; a large swinging gate opened i
 The stable was very roomy, with four good stalls; a large swinging gate opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging barn opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging gate opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999982251 	 0.99997
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999981096 	 0.99997
 &&&&&&&&&@ SUBSETS 	  The stable was very############ with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very', '############', 'with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy.']]
 The stable was very comfortable and spacious with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4386,7 +4386,7 @@ The stable was very large, along with four good stalls; a large swinging window 
 The stable was very well maintained, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very well maintained, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very good looking, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999986939 	 0.99996
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999999998697 	 0.99996
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window opened into the yard################ it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window opened into the yard', '################', 'it pleasant and airy.']]
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _ in the garden making [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4399,7 +4399,7 @@ The stable was very roomy, with four good stalls; a large swinging window opened
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, designed to make [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _; the terrace made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _; and we found [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994379 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999994599 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and########.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and', '########', '.']]
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and very quiet.	 	 tensor([-1.])
@@ -4412,7 +4412,7 @@ The stable was very roomy, with four good stalls; a large swinging window opened
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and well maintained.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and benign.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and tidy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999972423 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999974218 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four################ a large swinging window opened into the yard , which made it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four', '################', 'a large swinging window opened into the yard , which made it pleasant and airy.']]
 The stable was very roomy, with four - height walls and a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4425,7 +4425,7 @@ The stable was very roomy, with four front doors, and a large swinging window op
 The stable was very roomy, with four windows in one only a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four living rooms, and a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four living rooms, and a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999975578 	 0.839980033378601
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999976246 	 0.839980033378601
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it######## airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it', '########', 'airy.']]
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  comfortable and airy.	 	 tensor([-1.])
@@ -4438,7 +4438,7 @@ The stable was very roomy, with four good stalls; a large swinging window opened
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  dark and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  cold and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  huge and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999963963 	 0.8399799737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999963237 	 0.8399799737739563
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window######## the yard , which made it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window', '########', 'the yard , which made it pleasant and airy.']]
 The stable was very roomy, with four good stalls; a large swinging window out to the _ yard _, which made [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4451,7 +4451,7 @@ The stable was very roomy, with four good stalls; a large swinging window opened
 The stable was very roomy, with four good stalls; a large swinging window hung over the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window went across the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging window ran across the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999990304 	 0.63998004529953
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999989958 	 0.63998004529953
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls;######## swinging window opened into the yard , which made it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls;', '########', 'swinging window opened into the yard , which made it pleasant and airy.']]
 The stable was very roomy, with four good stalls; a large swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4466,8 +4466,8 @@ The stable was very roomy, with four good stalls; while a swinging window opened
 The stable was very roomy, with four good stalls; an open swinging window opened into the _ yard _, which made [it]  pleasant and airy.	 	 tensor([1.])
 #######
 Always before, _ Larry _ had helped Dad with his work. But he could not help [ him] now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.0397700218884
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.999999736551428 	 0.99985
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.0397700218856465
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999997365527091 	 0.99985
 &&&&&&&&&@ SUBSETS 	 ############ Larry################################ he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to################.
 &&&&&&&&&% SUBSETS 	 [['############', 'Larry', '################################', 'he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to', '################', '.']]
 He added that _ Larry _ loved Dad so much that he thought that he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to help him in Chicago.	 	 tensor([-1.])
@@ -4480,7 +4480,7 @@ But as for _ Larry _'s sister said that he was sorry he could not help [him]  no
 One time, _ Larry _ heard his Dad talk to his parents that he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to be around that much.	 	 tensor([1.])
 His father, _ Larry _ and I had known so much about football he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to run a railroad company.	 	 tensor([1.])
 Dad had taken _ Larry _, a young man in his 70s; he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to be around with him.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999287129 	 0.8399900333786011
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999286695 	 0.8399900333786011
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not#### him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not', '####', 'him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -4493,7 +4493,7 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help [h
 Always before, _ Larry _ had helped Dad with his work . But he could not trust [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not do [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 Always before, _ Larry _ had helped Dad with his work . But he could not trust [him]  now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999988601883 	 0.839960033378601
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999988579718 	 0.839960033378601
 &&&&&&&&&@ SUBSETS 	  Always before, Larry had helped Dad with his work. But he could not help him################ said that his boss at the railroad company would not want anyone but him to work in the office.
 &&&&&&&&&% SUBSETS 	 [['Always before, Larry had helped Dad with his work. But he could not help him', '################', 'said that his boss at the railroad company would not want anyone but him to work in the office.']]
 Always before, _ Larry _ had helped Dad with his work . But he could not help [him]  in part because he said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([-1.])
@@ -4508,8 +4508,8 @@ Always before, _ Larry _ had helped Dad with his work . But he could not help [h
 Always before, _ Larry _ had helped Dad with his work . But he could not help [him]  because the CEO had said that his boss at the railroad company would not want anyone but him to work in the office.	 	 tensor([1.])
 #######
 Joe _ Joe's uncle _ can still beat him at tennis, even though [ he] is 30 years younger.
-OVERALL SENSITIVITY ON THIS DATAPOINT 4.879889995251631
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999857219 	 0.99999
+OVERALL SENSITIVITY ON THIS DATAPOINT 4.879889995251059
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999857601 	 0.99999
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still#### him at tennis, even though he is 30 years younger.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still", '####', 'him at tennis, even though he is 30 years younger.']]
 Joe _ Joe's uncle _ can still see him at tennis, even though [he]  is 30 years younger.	 	 tensor([-1.])
@@ -4522,7 +4522,7 @@ Joe _ Joe's uncle _ can still hit him at tennis, even though [he]  is 30 years y
 Joe _ Joe's uncle _ can still coach him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still coach him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still help him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999981813 	 0.9599900381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999983281 	 0.9599900381469727
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle#### still beat him at tennis, even though he is 30 years younger.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle", '####', 'still beat him at tennis, even though he is 30 years younger.']]
 Joe _ Joe's uncle _ John still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([-1.])
@@ -4535,7 +4535,7 @@ Joe _ Joe's uncle _ will still beat him at tennis, even though [he]  is 30 years
 Joe _ Joe's uncle _ will still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992533 	 0.9599800381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999992636 	 0.9599800381469726
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat him at tennis, even though he######## years younger.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat him at tennis, even though he", '########', 'years younger.']]
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is three years younger.	 	 tensor([-1.])
@@ -4548,7 +4548,7 @@ Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is seven yea
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 23 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 15 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at tennis, even though [he]  is 23 years younger.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999925004 	 0.9599600381469726
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999999927096 	 0.9599600381469726
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat him at################ he is 30 years younger.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat him at", '################', 'he is 30 years younger.']]
 Joe _ Joe's uncle _ can still beat him at the heavyweight level when [he]  is 30 years younger.	 	 tensor([-1.])
@@ -4561,7 +4561,7 @@ Joe _ Joe's uncle _ can still beat him at this division only if [he]  is 30 year
 Joe _ Joe's uncle _ can still beat him at least 20 years until [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at the top even if [he]  is 30 years younger.	 	 tensor([1.])
 Joe _ Joe's uncle _ can still beat him at the gym even though [he]  is 30 years younger.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996580078 	 0.6399899260902405
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999996660103 	 0.6399899260902405
 &&&&&&&&&@ SUBSETS 	  Joe Joe's uncle can still beat#### at tennis, even though he is 30 years younger.
 &&&&&&&&&% SUBSETS 	 [["Joe Joe's uncle can still beat", '####', 'at tennis, even though he is 30 years younger.']]
 Joe _ Joe's uncle _ can still beat anyone at tennis, even though [he]  is 30 years younger.	 	 tensor([-1.])
@@ -4576,8 +4576,8 @@ Joe _ Joe's uncle _ can still beat me at tennis, even though [he]  is 30 years y
 Joe _ Joe's uncle _ can still beat me at tennis, even though [he]  is 30 years younger.	 	 tensor([1.])
 #######
 The stable was very roomy, with four good stalls; a large swinging _ window _ opened into the yard, which made [ it] pleasant and airy.
-OVERALL SENSITIVITY ON THIS DATAPOINT 1.3391997179397637
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000131380026 	 0.9999
+OVERALL SENSITIVITY ON THIS DATAPOINT 1.3391997179400235
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.5000000131379327 	 0.9999
 &&&&&&&&&@ SUBSETS 	  The stable was very######################## stalls; a large swinging window opened into the yard, which made it################.
 &&&&&&&&&% SUBSETS 	 [['The stable was very', '########################', 'stalls; a large swinging window opened into the yard, which made it', '################', '.']]
 The stable was very big, and it had multiple stalls; a large swinging _ window _ opened into the yard, which made [it]  easy to see around.	 	 tensor([-1.])
@@ -4590,7 +4590,7 @@ The stable was very tight because we also have separate stalls; a large swinging
 The stable was very welcoming, with six rows of stalls; a large swinging _ window _ opened into the yard, which made [it]  very happy to open.	 	 tensor([1.])
 The stable was very little more than a space for stalls; a large swinging _ window _ opened into the yard, which made [it]  the perfect escape route.	 	 tensor([1.])
 The stable was very quiet with a couple of large stalls; a large swinging _ window _ opened into the yard, which made [it]  ideal for all races.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999819216714 	 0.8888088359069825
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999819218582 	 0.8888088359069825
 &&&&&&&&&@ SUBSETS 	  The stable was very roomy, with four good stalls; a large swinging window opened into the################ it################.
 &&&&&&&&&% SUBSETS 	 [['The stable was very roomy, with four good stalls; a large swinging window opened into the', '################', 'it', '################', '.']]
 The stable was very roomy, with four good stalls; a large swinging _ window _ opened into the rear, which gave [it]  a very comfortable look.	 	 tensor([-1.])
@@ -4599,7 +4599,7 @@ The stable was very roomy, with four good stalls; a large swinging _ window _ op
 The stable was very roomy, with four good stalls; a large swinging _ window _ opened into the roof to allow for [it]  to view the harbour.	 	 tensor([-1.])
 The stable was very roomy, with four good stalls; a large swinging _ window _ opened into the garden and he turned [it]  in by the gate.	 	 tensor([1.])
 The stable was very roomy, with four good stalls; a large swinging _ window _ opened into the barn door, making [it]  an attractive escape route.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999498779179 	 0.5553656416511535
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.4999999498777657 	 0.5553656416511535
 &&&&&&&&&@ SUBSETS 	 ############################################################ swinging window opened into the################ it pleasant and airy.
 &&&&&&&&&% SUBSETS 	 [['############################################################', 'swinging window opened into the', '################', 'it pleasant and airy.']]
 The air is crisp, the windows are glassy, and a huge, swinging _ window _ opened into the dining room will keep [it]  pleasant and airy.	 	 tensor([-1.])
@@ -4610,8 +4610,8 @@ The hotel's modern design style and a large open, low living - swinging _ window
 It was so clean, but I felt that being right where you stood, swinging _ window _ opened into the surrounding countryside, made [it]  pleasant and airy.	 	 tensor([1.])
 #######
 _ The large ball _ crashed right through the table because [ it] was made of steel.
-OVERALL SENSITIVITY ON THIS DATAPOINT 2.9599100385538244
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999986586237 	 0.99997
+OVERALL SENSITIVITY ON THIS DATAPOINT 2.959910038553821
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999986585615 	 0.99997
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the table#### it######## of steel.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the table', '####', 'it', '########', 'of steel.']]
 _ The large ball _ crashed right through the table as [it]  was made of steel.	 	 tensor([-1.])
@@ -4624,7 +4624,7 @@ _ The large ball _ crashed right through the table as [it]  went out of steel.	 
 _ The large ball _ crashed right through the table before [it]  pulled out of steel.	 	 tensor([1.])
 _ The large ball _ crashed right through the table as [it]  popped out of steel.	 	 tensor([1.])
 _ The large ball _ crashed right through the table; [it]  broke tons of steel.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997201493 	 0.9599700381469727
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999997201943 	 0.9599700381469727
 &&&&&&&&&@ SUBSETS 	  The large ball############ the table because it was made of steel.
 &&&&&&&&&% SUBSETS 	 [['The large ball', '############', 'the table because it was made of steel.']]
 _ The large ball _ was placed in the table because [it]  was made of steel.	 	 tensor([-1.])
@@ -4637,7 +4637,7 @@ _ The large ball _ was bigger than the table because [it]  was made of steel.	 	
 _ The large ball _ was not on the table because [it]  was made of steel.	 	 tensor([1.])
 _ The large ball _ was named for the table because [it]  was made of steel.	 	 tensor([1.])
 _ The large ball _ came out of the table because [it]  was made of steel.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999913236057338 	 0.6399900452995301
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999913235214926 	 0.6399900452995301
 &&&&&&&&&@ SUBSETS 	  The large ball crashed right through the#### because it was made of steel.
 &&&&&&&&&% SUBSETS 	 [['The large ball crashed right through the', '####', 'because it was made of steel.']]
 _ The large ball _ crashed right through the wall because [it]  was made of steel.	 	 tensor([-1.])
@@ -4652,8 +4652,8 @@ _ The large ball _ crashed right through the crowd because [it]  was made of ste
 _ The large ball _ crashed right through the crowd because [it]  was made of steel.	 	 tensor([1.])
 #######
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [ he] was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
-OVERALL SENSITIVITY ON THIS DATAPOINT 3.9971510857623618
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999992591254 	 0.9599701573562622
+OVERALL SENSITIVITY ON THIS DATAPOINT 3.9971510857600214
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999992581834 	 0.9599701573562622
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not######## the master#### in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not', '########', 'the master', '####', 'in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not get to _ the master _ jockey in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4666,7 +4666,7 @@ One day Dick was teasing the colts, and did not know where _ the master _ rode i
 One day Dick was teasing the colts, and did not he see _ the master _bred in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not have passed _ the master _bred in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not notice that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995527314 	 0.8399699737739563
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999995517883 	 0.8399699737739563
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was in the next field; but he was############ what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was in the next field; but he was', '############', 'what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [he]  was really not sure what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4679,7 +4679,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was in 
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [he]  was sure to know what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [he]  was not aware of what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [he]  was trying to gauge what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994197117 	 0.6913379702377319
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999994201916 	 0.6913379702377319
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and######## know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and', '########', 'know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and I now know that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4700,7 +4700,7 @@ One day Dick was teasing the colts, and he would know that _ the master _ was in
 One day Dick was teasing the colts, and we all know that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and they may know that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993646121 	 0.5554956416511536
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999999993649346 	 0.5554956416511536
 &&&&&&&&&@ SUBSETS 	  One day Dick was teasing the colts, and did not know that the master was######################## he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.
 &&&&&&&&&% SUBSETS 	 [['One day Dick was teasing the colts, and did not know that the master was', '########################', 'he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.']]
 One day Dick was teasing the colts, and did not know that _ the master _ was being teased at a meeting but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([-1.])
@@ -4709,7 +4709,7 @@ One day Dick was teasing the colts, and did not know that _ the master _ was doi
 One day Dick was teasing the colts, and did not know that _ the master _ was in the stables by the time [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was too tired to scratch, and [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
 One day Dick was teasing the colts, and did not know that _ the master _ was at it that time, but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.	 	 tensor([1.])
-&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999994713866123 	 0.5553556416511536
+&&&&&&&&&&& SUBSET SENSITIVITY 	 0.9999994713891517 	 0.5553556416511536
 &&&&&&&&&@ SUBSETS 	 ######################################## did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he######################################## and surprise.
 &&&&&&&&&% SUBSETS 	 [['########################################', 'did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he', '########################################', 'and surprise.']]
 When we arrived at the stables at the end we did not know that _ the master _ was in the next field; but [he]  was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he saw the man's side of the ground again and surprise.	 	 tensor([-1.])
