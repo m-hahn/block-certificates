@@ -73,7 +73,7 @@ data = data[:30]
 
 allItems = []
 for item in data:
-     allItems.append((item["original"], "NA"))
+     allItems.append((item["original"], '"NA"'))
      options = item["subsets"]
      for y in options:
         allItems += y
@@ -82,7 +82,7 @@ rng.shuffle(allItems)
 print(allItems)
 print(len(allItems))
 
-numberOfLists = int(len(allItems)/30)
+numberOfLists = int(len(allItems)/40)
 lengthOfList = int(len(allItems)/numberOfLists)
 
 streams = [open(f"output/{__file__}_{i}.js", "w") for i in range(numberOfLists)]
@@ -96,7 +96,7 @@ def prettyPrint(x):
 #        x.append("\"NA\"")
     if len(x) == 2:
         x = x[0].split("@")
-        x.append("NA")
+        x.append("'NA'")
     print(x)
     x = list(x)
     x[0] = x[0].replace("Flam?­boy?­ant", "Flamboyant").replace("Flam? <unk> boy? <unk> ant", "Flamboyant").replace("R?? publique", "Republique").replace("R?? man", "Roman").replace("?.", "?").replace("Pe??", "Pe")
