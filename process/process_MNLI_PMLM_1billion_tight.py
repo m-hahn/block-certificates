@@ -82,7 +82,7 @@ rng.shuffle(allItems)
 print(allItems)
 print(len(allItems))
 
-numberOfLists = int(len(allItems)/40)
+numberOfLists = int(len(allItems)/50)
 lengthOfList = int(len(allItems)/numberOfLists)
 
 streams = [open(f"output/{__file__}_{i}.js", "w") for i in range(numberOfLists)]
